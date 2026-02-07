@@ -259,11 +259,6 @@ const App = {
     const now = new Date();
     const hour = now.getHours();
 
-    // Evening surprise (after 6 PM)
-    if (hour >= 18 && hour < 22) {
-      this.addEveningSurprise();
-    }
-
     // Monthly milestone check
     this.checkMonthlyMilestone();
   },
