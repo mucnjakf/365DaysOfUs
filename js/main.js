@@ -326,8 +326,8 @@ const App = {
     const message = document.createElement("div");
     message.className = "milestone-message";
     message.innerHTML = `
-            <h3>🎉 ${months} Month${months > 1 ? "s" : ""} Together! 🎉</h3>
-            <p>Celebrating another beautiful month with you!</p>
+            <h3>🎉 ${months} Mjesec${months > 1 ? "i" : ""} Zajedno! 🎉</h3>
+            <p>Slavim još jedan prekrasan mjesec s tobom!</p>
         `;
     message.style.cssText = `
             position: fixed;

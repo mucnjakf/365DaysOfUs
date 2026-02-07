@@ -1,2192 +1,2192 @@
 [
   {
     "id": 1,
-    "category": "Your Smile",
-    "reason": "The way your eyes sparkle when you laugh at my silly jokes",
+    "category": "Tvoj osmijeh",
+    "reason": "Način na koji ti oči zasijaju kada se smiješ mojim glupim šalama",
     "emoji": "💕"
   },
   {
     "id": 2,
-    "category": "Little Things",
-    "reason": "How you always remember my coffee order perfectly",
+    "category": "Male stvari",
+    "reason": "Kako uvijek savršeno zapamtiš moju narudžbu kave",
     "emoji": "☕"
   },
   {
     "id": 3,
-    "category": "Your Beautiful Soul",
-    "reason": "Your kindness to everyone you meet, even strangers",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja ljubaznost prema svima koje sretneš, čak i prema strancima",
     "emoji": "🌟"
   },
   {
     "id": 4,
-    "category": "How You Make Me Feel",
-    "reason": "Safe, loved, and like I can be completely myself",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Sigurno, voljeno, i kao da mogu biti potpuno svoj",
     "emoji": "💫"
   },
   {
     "id": 5,
-    "category": "Little Things",
-    "reason": "The cute sound you make when you're concentrating",
+    "category": "Male stvari",
+    "reason": "Slatki zvuk koji proizvediš kada se koncentriraš",
     "emoji": "🎀"
   },
   {
     "id": 6,
-    "category": "Your Smile",
-    "reason": "How your whole face lights up when you see me",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako ti cijelo lice zasija kada me vidiš",
     "emoji": "😊"
   },
   {
     "id": 7,
-    "category": "Dreams & Future",
-    "reason": "How excited you get talking about our future together",
+    "category": "Snovi i budućnost",
+    "reason": "Koliko se uzbudiš kada pričaš o našoj zajedničkoj budućnosti",
     "emoji": "🌈"
   },
   {
     "id": 8,
-    "category": "Little Things",
-    "reason": "The way you scrunch your nose when you disagree",
+    "category": "Male stvari",
+    "reason": "Način na koji namrštiš nos kada se ne slažeš",
     "emoji": "👃"
   },
   {
     "id": 9,
-    "category": "Your Beautiful Soul",
-    "reason": "Your patience with me when I'm being difficult",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoje strpljenje sa mnom kada sam težak",
     "emoji": "🌸"
   },
   {
     "id": 10,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm the luckiest person in the world every single day",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam najsretnija osoba na svijetu svaki dan",
     "emoji": "🍀"
   },
   {
     "id": 11,
-    "category": "Inside Jokes",
-    "reason": "That time you tried to cook and set off the fire alarm",
+    "category": "Šale",
+    "reason": "Onaj put kada si pokušala kuhati i uključila požarni alarm",
     "emoji": "🔥"
   },
   {
     "id": 12,
-    "category": "Your Smile",
-    "reason": "The way you bite your lip when you're trying not to smile",
+    "category": "Tvoj osmijeh",
+    "reason": "Način na koji grizaš usnu kada pokušavaš da se ne nasmiješ",
     "emoji": "😏"
   },
   {
     "id": 13,
-    "category": "Little Things",
-    "reason": "How you always share your dessert with me, even your favorite",
+    "category": "Male stvari",
+    "reason": "Kako uvijek podijeliš svoj desert sa mnom, čak i svoj omiljeni",
     "emoji": "🍰"
   },
   {
     "id": 14,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you care for animals and plants like they're family",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji brineš o životinjama i biljkama kao da su obitelj",
     "emoji": "🌱"
   },
   {
     "id": 15,
-    "category": "Dreams & Future",
-    "reason": "Planning imaginary vacations together at 2am",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje imaginarnih odmora zajedno u 2 ujutro",
     "emoji": "✈️"
   },
   {
     "id": 16,
-    "category": "How You Make Me Feel",
-    "reason": "Calm in the middle of any storm",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Mirno usred svake oluje",
     "emoji": "🌊"
   },
   {
     "id": 17,
-    "category": "Little Things",
-    "reason": "Your terrible singing in the shower that I secretly love",
+    "category": "Male stvari",
+    "reason": "Tvoje grozno pjevanje pod tušem koje potajno volim",
     "emoji": "🎤"
   },
   {
     "id": 18,
-    "category": "Your Smile",
-    "reason": "That shy smile when I compliment you",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj sramežljivi osmijeh kada te pohvalim",
     "emoji": "😌"
   },
   {
     "id": 19,
-    "category": "Inside Jokes",
-    "reason": "Our secret language that nobody else understands",
+    "category": "Šale",
+    "reason": "Naš tajni jezik koji nitko drugi ne razumije",
     "emoji": "🤫"
   },
   {
     "id": 20,
-    "category": "Your Beautiful Soul",
-    "reason": "How you forgive so easily and never hold grudges",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako opraštaš tako lako i nikada ne nosaš ljutnju",
     "emoji": "💝"
   },
   {
     "id": 21,
-    "category": "Little Things",
-    "reason": "The way you steal my hoodies and they look better on you",
+    "category": "Male stvari",
+    "reason": "Način na koji mi kradeš dukse i bolje ti stoje",
     "emoji": "👕"
   },
   {
     "id": 22,
-    "category": "How You Make Me Feel",
-    "reason": "Like every day is an adventure waiting to happen",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da je svaki dan avantura koja čeka da se dogodi",
     "emoji": "🎢"
   },
   {
     "id": 23,
-    "category": "Dreams & Future",
-    "reason": "The way you talk about the kids we'll have someday",
+    "category": "Snovi i budućnost",
+    "reason": "Način na koji pričaš o djeci koju ćemo jednog dana imati",
     "emoji": "👶"
   },
   {
     "id": 24,
-    "category": "Your Smile",
-    "reason": "Your morning smile before you've even opened your eyes",
+    "category": "Tvoj osmijeh",
+    "reason": "Tvoj jutarnji osmijeh prije nego što si uopće otvorio oči",
     "emoji": "🌅"
   },
   {
     "id": 25,
-    "category": "Little Things",
-    "reason": "How you dance in the kitchen while making breakfast",
+    "category": "Male stvari",
+    "reason": "Kako plešeš u kuhinji dok praviš doručak",
     "emoji": "💃"
   },
   {
     "id": 26,
-    "category": "Your Beautiful Soul",
-    "reason": "Your strength in facing challenges with grace",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja snaga u suočavanju s izazovima s dostojanstvom",
     "emoji": "💪"
   },
   {
     "id": 27,
-    "category": "Inside Jokes",
-    "reason": "The nickname incident that still makes us laugh",
+    "category": "Šale",
+    "reason": "Incident s nadimkom koji nas još uvijek nasmijava",
     "emoji": "😂"
   },
   {
     "id": 28,
-    "category": "How You Make Me Feel",
-    "reason": "Understood without having to say a word",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Shvaćeno bez potrebe da kažem riječ",
     "emoji": "💭"
   },
   {
     "id": 29,
-    "category": "Little Things",
-    "reason": "The way you hold my hand when you're nervous",
+    "category": "Male stvari",
+    "reason": "Način na koji držiš moju ruku kada si nervozna",
     "emoji": "🤝"
   },
   {
     "id": 30,
-    "category": "Your Smile",
-    "reason": "How you can't hide your smile when you're trying to be serious",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako ne možeš sakriti svoj osmijeh kada pokušavaš biti ozbiljna",
     "emoji": "😄"
   },
   {
     "id": 31,
-    "category": "Dreams & Future",
-    "reason": "Planning our dream home with ridiculous room ideas",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje naše kuće iz snova s ludim idejama za sobe",
     "emoji": "🏡"
   },
   {
     "id": 32,
-    "category": "Your Beautiful Soul",
-    "reason": "How you always see the best in people",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako uvijek vidiš najbolje u ljudima",
     "emoji": "👁️"
   },
   {
     "id": 33,
-    "category": "Little Things",
-    "reason": "Your obsession with organizing things by color",
+    "category": "Male stvari",
+    "reason": "Tvoja opsesija organiziranjem stvari po boji",
     "emoji": "🌈"
   },
   {
     "id": 34,
-    "category": "How You Make Me Feel",
-    "reason": "Like I've finally found my home",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam konačno pronašao svoj dom",
     "emoji": "🏠"
   },
   {
     "id": 35,
-    "category": "Inside Jokes",
-    "reason": "That embarrassing karaoke moment we'll never forget",
+    "category": "Šale",
+    "reason": "Taj neugodni karaoke trenutak koji nikada nećemo zaboraviti",
     "emoji": "🎵"
   },
   {
     "id": 36,
-    "category": "Your Smile",
-    "reason": "The mischievous grin you get before pranking me",
+    "category": "Tvoj osmijeh",
+    "reason": "Nestašni osmijeh koji dobiješ prije nego što me zezaš",
     "emoji": "😈"
   },
   {
     "id": 37,
-    "category": "Little Things",
-    "reason": "How you leave little notes for me to find",
+    "category": "Male stvari",
+    "reason": "Kako mi ostavljaš male bilješke da ih pronađem",
     "emoji": "📝"
   },
   {
     "id": 38,
-    "category": "Your Beautiful Soul",
-    "reason": "Your unwavering loyalty to the people you love",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja nepokolebljiva lojalnost ljudima koje voliš",
     "emoji": "🛡️"
   },
   {
     "id": 39,
-    "category": "Dreams & Future",
-    "reason": "Looking at old couple photos and saying 'that'll be us'",
+    "category": "Snovi i budućnost",
+    "reason": "Gledanje fotografija starih parova i govorenje 'to ćemo biti mi'",
     "emoji": "👵"
   },
   {
     "id": 40,
-    "category": "How You Make Me Feel",
-    "reason": "Like I can conquer anything with you by my side",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da mogu osvojiti bilo što s tobom uz mene",
     "emoji": "🦸"
   },
   {
     "id": 41,
-    "category": "Little Things",
-    "reason": "The way you curl up against me while watching movies",
+    "category": "Male stvari",
+    "reason": "Način na koji se smotuš uz mene dok gledamo filmove",
     "emoji": "🎬"
   },
   {
     "id": 42,
-    "category": "Your Smile",
-    "reason": "How you smile in your sleep sometimes",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se ponekad smiješ u snu",
     "emoji": "😴"
   },
   {
     "id": 43,
-    "category": "Inside Jokes",
-    "reason": "The 'are you thinking what I'm thinking' moments",
+    "category": "Šale",
+    "reason": "Trenuci 'misliš li ono što ja mislim'",
     "emoji": "🧠"
   },
   {
     "id": 44,
-    "category": "Your Beautiful Soul",
-    "reason": "How you cry at happy endings and try to hide it",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako plačeš na sretne završetke i pokušavaš to sakriti",
     "emoji": "😭"
   },
   {
     "id": 45,
-    "category": "Little Things",
-    "reason": "Your collection of random facts you share at odd times",
+    "category": "Male stvari",
+    "reason": "Tvoja kolekcija nasumičnih činjenica koje dijeliš u čudnim trenucima",
     "emoji": "📚"
   },
   {
     "id": 46,
-    "category": "Dreams & Future",
-    "reason": "Talking about growing old together and still being silly",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o zajedničkom starenju i dalje biti ludi",
     "emoji": "🧓"
   },
   {
     "id": 47,
-    "category": "How You Make Me Feel",
-    "reason": "Grateful for every single moment we share",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Zahvalan za svaki trenutak koji dijelimo",
     "emoji": "🙏"
   },
   {
     "id": 48,
-    "category": "Your Smile",
-    "reason": "That genuine smile when you're truly happy",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj iskreni osmijeh kada si stvarno sretna",
     "emoji": "😁"
   },
   {
     "id": 49,
-    "category": "Little Things",
-    "reason": "How you always know when something's bothering me",
+    "category": "Male stvari",
+    "reason": "Kako uvijek znaš kada me nešto muči",
     "emoji": "🔍"
   },
   {
     "id": 50,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you pursue your passions with dedication",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji slijediš svoje strasti s predanošću",
     "emoji": "🎯"
   },
   {
     "id": 51,
-    "category": "Inside Jokes",
-    "reason": "Our made-up song that's completely ridiculous",
+    "category": "Šale",
+    "reason": "Naša izmišljena pjesma koja je potpuno smiješna",
     "emoji": "🎶"
   },
   {
     "id": 52,
-    "category": "How You Make Me Feel",
-    "reason": "Inspired to be a better person every day",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Inspiriran da budem bolja osoba svaki dan",
     "emoji": "✨"
   },
   {
     "id": 53,
-    "category": "Little Things",
-    "reason": "Your weird food combinations that somehow work",
+    "category": "Male stvari",
+    "reason": "Tvoje čudne kombinacije hrane koje nekako funkcioniraju",
     "emoji": "🍕"
   },
   {
     "id": 54,
-    "category": "Dreams & Future",
-    "reason": "Planning all the places we'll travel together",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje svih mjesta koja ćemo zajedno posjetiti",
     "emoji": "🗺️"
   },
   {
     "id": 55,
-    "category": "Your Smile",
-    "reason": "The way you smile when you catch me staring at you",
+    "category": "Tvoj osmijeh",
+    "reason": "Način na koji se nasmiješ kada me uhvatiš kako te gledam",
     "emoji": "😍"
   },
   {
     "id": 56,
-    "category": "Your Beautiful Soul",
-    "reason": "How you stand up for what's right, even when it's hard",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako se zalažeš za ono što je ispravno, čak i kada je teško",
     "emoji": "⚖️"
   },
   {
     "id": 57,
-    "category": "Little Things",
-    "reason": "The way you talk to yourself when you think nobody's listening",
+    "category": "Male stvari",
+    "reason": "Način na koji pričaš sama sa sobom kada misliš da nitko ne sluša",
     "emoji": "🗣️"
   },
   {
     "id": 58,
-    "category": "Inside Jokes",
-    "reason": "That time we got completely lost and laughed the whole way",
+    "category": "Šale",
+    "reason": "Onaj put kada smo se potpuno izgubili i smijali se cijelo vrijeme",
     "emoji": "🧭"
   },
   {
     "id": 59,
-    "category": "How You Make Me Feel",
-    "reason": "Like every love song was written about us",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da je svaka ljubavna pjesma napisana o nama",
     "emoji": "🎼"
   },
   {
     "id": 60,
-    "category": "Your Smile",
-    "reason": "How you try not to smile at my bad puns but can't help it",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se pokušavaš ne nasmijati na moje loše viceve ali ne možeš",
     "emoji": "🙃"
   },
   {
     "id": 61,
-    "category": "Little Things",
-    "reason": "Your habit of tucking your hair behind your ear",
+    "category": "Male stvari",
+    "reason": "Tvoja navika da staviš kosu iza uha",
     "emoji": "💁"
   },
   {
     "id": 62,
-    "category": "Dreams & Future",
-    "reason": "Imagining all our future anniversaries together",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje svih naših budućih godišnjica zajedno",
     "emoji": "💒"
   },
   {
     "id": 63,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you make everyone feel included and valued",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji svi osjećaju se uključenima i cijenjenima",
     "emoji": "🤗"
   },
   {
     "id": 64,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm exactly where I'm supposed to be",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam točno tamo gdje trebam biti",
     "emoji": "🧭"
   },
   {
     "id": 65,
-    "category": "Inside Jokes",
-    "reason": "The weird face you make that only I get to see",
+    "category": "Šale",
+    "reason": "Čudna grimasa koju praviš a samo ja je vidim",
     "emoji": "🤪"
   },
   {
     "id": 66,
-    "category": "Little Things",
-    "reason": "How you always check on me throughout the day",
+    "category": "Male stvari",
+    "reason": "Kako me uvijek provjeravaš tijekom dana",
     "emoji": "📱"
   },
   {
     "id": 67,
-    "category": "Your Smile",
-    "reason": "That proud smile when I accomplish something",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj ponosni osmijeh kada nešto postignem",
     "emoji": "🏆"
   },
   {
     "id": 68,
-    "category": "Your Beautiful Soul",
-    "reason": "Your ability to find joy in the simplest things",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja sposobnost pronalaženja radosti u najjednostavnijim stvarima",
     "emoji": "🎈"
   },
   {
     "id": 69,
-    "category": "Dreams & Future",
-    "reason": "Planning our garden full of flowers and vegetables",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje našeg vrta punog cvijeća i povrća",
     "emoji": "🌻"
   },
   {
     "id": 70,
-    "category": "How You Make Me Feel",
-    "reason": "Like time stops when we're together",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da vrijeme stane kada smo zajedno",
     "emoji": "⏰"
   },
   {
     "id": 71,
-    "category": "Little Things",
-    "reason": "The way you get excited about your favorite shows",
+    "category": "Male stvari",
+    "reason": "Način na koji se uzbudiš zbog svojih omiljenih serija",
     "emoji": "📺"
   },
   {
     "id": 72,
-    "category": "Inside Jokes",
-    "reason": "Our secret handshake that's way too complicated",
+    "category": "Šale",
+    "reason": "Naš tajni pozdrav koji je previše kompliciran",
     "emoji": "🤜"
   },
   {
     "id": 73,
-    "category": "Your Smile",
-    "reason": "How you smile while telling your favorite stories",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ dok pričaš svoje omiljene priče",
     "emoji": "📖"
   },
   {
     "id": 74,
-    "category": "Your Beautiful Soul",
-    "reason": "The compassion you show even when you're hurting",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Suosjećanje koje pokazuješ čak i kada si povrijeđena",
     "emoji": "💗"
   },
   {
     "id": 75,
-    "category": "Little Things",
-    "reason": "Your adorable bedhead in the morning",
+    "category": "Male stvari",
+    "reason": "Tvoja preslatka raščupana kosa ujutro",
     "emoji": "😴"
   },
   {
     "id": 76,
-    "category": "How You Make Me Feel",
-    "reason": "Braver than I ever thought I could be",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Hrabriji nego što sam ikada mislio da mogu biti",
     "emoji": "🦁"
   },
   {
     "id": 77,
-    "category": "Dreams & Future",
-    "reason": "Talking about starting our own traditions",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o započinjanju naših vlastitih tradicija",
     "emoji": "🎄"
   },
   {
     "id": 78,
-    "category": "Inside Jokes",
-    "reason": "The disaster birthday cake we'll never live down",
+    "category": "Šale",
+    "reason": "Katastrofalna rođendanska torta koju nikada nećemo živjeti",
     "emoji": "🎂"
   },
   {
     "id": 79,
-    "category": "Your Smile",
-    "reason": "That sleepy smile when you're too tired to talk",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj pospani osmijeh kada si preumorna da pričaš",
     "emoji": "😌"
   },
   {
     "id": 80,
-    "category": "Your Beautiful Soul",
-    "reason": "How you celebrate other people's successes genuinely",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako slaviš tuđe uspjehe iskreno",
     "emoji": "🎉"
   },
   {
     "id": 81,
-    "category": "Little Things",
-    "reason": "The way you hum while doing chores",
+    "category": "Male stvari",
+    "reason": "Način na koji pjevušiš dok radiš kućne poslove",
     "emoji": "🎵"
   },
   {
     "id": 82,
-    "category": "How You Make Me Feel",
-    "reason": "Like every moment with you is precious",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da je svaki trenutak s tobom dragocjen",
     "emoji": "💎"
   },
   {
     "id": 83,
-    "category": "Dreams & Future",
-    "reason": "Planning lazy Sunday mornings forever",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje lijenih nedjelja ujutro zauvijek",
     "emoji": "🥞"
   },
   {
     "id": 84,
-    "category": "Your Smile",
-    "reason": "How your eyes crinkle when you laugh really hard",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako ti se oči naboraju kada se stvarno nasmješ",
     "emoji": "😆"
   },
   {
     "id": 85,
-    "category": "Inside Jokes",
-    "reason": "The movie quote we use at the weirdest times",
+    "category": "Šale",
+    "reason": "Citat iz filma koji koristimo u najčudnijim trenucima",
     "emoji": "🎥"
   },
   {
     "id": 86,
-    "category": "Little Things",
-    "reason": "How you always save the best bite for last",
+    "category": "Male stvari",
+    "reason": "Kako uvijek čuvaš najbolji zalogaj za kraj",
     "emoji": "🍴"
   },
   {
     "id": 87,
-    "category": "Your Beautiful Soul",
-    "reason": "Your incredible work ethic and determination",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja nevjerojatna radna etika i odlučnost",
     "emoji": "💼"
   },
   {
     "id": 88,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm part of something bigger than myself",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam dio nečeg većeg od sebe",
     "emoji": "🌍"
   },
   {
     "id": 89,
-    "category": "Little Things",
-    "reason": "The way you get cozy with all the blankets",
+    "category": "Male stvari",
+    "reason": "Način na koji se uguštaš sa svim dekama",
     "emoji": "🛋️"
   },
   {
     "id": 90,
-    "category": "Dreams & Future",
-    "reason": "Imagining teaching our kids all our silly games",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje podučavanja naše djece svim našim ludim igrama",
     "emoji": "🎮"
   },
   {
     "id": 91,
-    "category": "Your Smile",
-    "reason": "That satisfied smile after a good meal",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj zadovoljni osmijeh nakon dobrog obroka",
     "emoji": "😋"
   },
   {
     "id": 92,
-    "category": "Inside Jokes",
-    "reason": "The stupid fight we had that seems hilarious now",
+    "category": "Šale",
+    "reason": "Glupa svađa koju smo imali a sada izgleda urnebesno",
     "emoji": "🤦"
   },
   {
     "id": 93,
-    "category": "Your Beautiful Soul",
-    "reason": "How you apologize when you're wrong without ego",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako se ispričavaš kada si u krivu bez ega",
     "emoji": "🙇"
   },
   {
     "id": 94,
-    "category": "Little Things",
-    "reason": "Your collection of cute mugs you never use",
+    "category": "Male stvari",
+    "reason": "Tvoja kolekcija slatkih šalica koje nikada ne koristiš",
     "emoji": "☕"
   },
   {
     "id": 95,
-    "category": "How You Make Me Feel",
-    "reason": "Complete, like you're my missing piece",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kompletno, kao da si moj dio koji nedostaje",
     "emoji": "🧩"
   },
   {
     "id": 96,
-    "category": "Your Smile",
-    "reason": "The smile you try to hide when I'm being cheesy",
+    "category": "Tvoj osmijeh",
+    "reason": "Osmijeh koji pokušavaš sakriti kada sam sentimentalan",
     "emoji": "🧀"
   },
   {
     "id": 97,
-    "category": "Dreams & Future",
-    "reason": "Planning to renew our vows in crazy places",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje obnavljanja zavjeta na ludim mjestima",
     "emoji": "🏔️"
   },
   {
     "id": 98,
-    "category": "Little Things",
-    "reason": "How you always double-check if I locked the door",
+    "category": "Male stvari",
+    "reason": "Kako uvijek dvaput provjeravaš jesam li zaključao vrata",
     "emoji": "🔒"
   },
   {
     "id": 99,
-    "category": "Inside Jokes",
-    "reason": "That time we both wore the same color by accident",
+    "category": "Šale",
+    "reason": "Onaj put kada smo oboje slučajno nosili istu boju",
     "emoji": "👔"
   },
   {
     "id": 100,
-    "category": "Your Beautiful Soul",
-    "reason": "Your ability to bounce back from disappointments",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja sposobnost oporavka od razočaranja",
     "emoji": "🎈"
   },
   {
     "id": 101,
-    "category": "How You Make Me Feel",
-    "reason": "Like anything is possible when we're together",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da je sve moguće kada smo zajedno",
     "emoji": "🚀"
   },
   {
     "id": 102,
-    "category": "Your Smile",
-    "reason": "How you smile at me from across a crowded room",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako mi se smiješ s druge strane prepune sobe",
     "emoji": "👀"
   },
   {
     "id": 103,
-    "category": "Little Things",
-    "reason": "The way you arrange your pillows just right",
+    "category": "Male stvari",
+    "reason": "Način na koji slažeš svoje jastuke baš kako treba",
     "emoji": "🛏️"
   },
   {
     "id": 104,
-    "category": "Dreams & Future",
-    "reason": "Planning to be embarrassing parents together",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje biti neugodni roditelji zajedno",
     "emoji": "👨‍👩‍👧"
   },
   {
     "id": 105,
-    "category": "Your Beautiful Soul",
-    "reason": "How you give without expecting anything in return",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako daješ ne očekujući ništa zauzvrat",
     "emoji": "🎁"
   },
   {
     "id": 106,
-    "category": "Inside Jokes",
-    "reason": "Our fake accents that are terrible but hilarious",
+    "category": "Šale",
+    "reason": "Naši lažni naglasci koji su grozni ali urnebesni",
     "emoji": "🗣️"
   },
   {
     "id": 107,
-    "category": "How You Make Me Feel",
-    "reason": "Loved unconditionally for exactly who I am",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Voljenim bezuvjetno za upravo ono što jesam",
     "emoji": "💖"
   },
   {
     "id": 108,
-    "category": "Little Things",
-    "reason": "Your weird stretches that somehow work",
+    "category": "Male stvari",
+    "reason": "Tvoja čudna istezanja koja nekako funkcioniraju",
     "emoji": "🧘"
   },
   {
     "id": 109,
-    "category": "Your Smile",
-    "reason": "That relieved smile after a stressful day",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj olakšani osmijeh nakon stresnog dana",
     "emoji": "😮‍💨"
   },
   {
     "id": 110,
-    "category": "Dreams & Future",
-    "reason": "Talking about our retirement plans like they're tomorrow",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o našim planovima za mirovinu kao da je sutra",
     "emoji": "🏖️"
   },
   {
     "id": 111,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you listen with your whole heart",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji slušaš cijelim srcem",
     "emoji": "👂"
   },
   {
     "id": 112,
-    "category": "Little Things",
-    "reason": "How you narrate what the pets are thinking",
+    "category": "Male stvari",
+    "reason": "Kako pripovijedaš što kućni ljubimci misle",
     "emoji": "🐕"
   },
   {
     "id": 113,
-    "category": "Inside Jokes",
-    "reason": "The epic board game rivalry we have",
+    "category": "Šale",
+    "reason": "Epsko rivalstvo u društvenim igrama koje imamo",
     "emoji": "🎲"
   },
   {
     "id": 114,
-    "category": "How You Make Me Feel",
-    "reason": "Like I found my person in this huge world",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam pronašao svoju osobu u ovom ogromnom svijetu",
     "emoji": "🌎"
   },
   {
     "id": 115,
-    "category": "Your Smile",
-    "reason": "The way you smile at old photos of us",
+    "category": "Tvoj osmijeh",
+    "reason": "Način na koji se smiješ starim fotografijama nas",
     "emoji": "📷"
   },
   {
     "id": 116,
-    "category": "Little Things",
-    "reason": "How you always smell amazing",
+    "category": "Male stvari",
+    "reason": "Kako uvijek mirišeš nevjerojatno",
     "emoji": "🌺"
   },
   {
     "id": 117,
-    "category": "Dreams & Future",
-    "reason": "Planning matching outfits for when we're eighty",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje odgovarajućih odjevnih kombinacija za kad budemo imali osamdeset",
     "emoji": "👫"
   },
   {
     "id": 118,
-    "category": "Your Beautiful Soul",
-    "reason": "Your honesty even when the truth is difficult",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja iskrenost čak i kada je istina teška",
     "emoji": "💬"
   },
   {
     "id": 119,
-    "category": "Inside Jokes",
-    "reason": "The dance moves we invented that nobody should see",
+    "category": "Šale",
+    "reason": "Plesni pokreti koje smo izmislili a nitko ne bi trebao vidjeti",
     "emoji": "🕺"
   },
   {
     "id": 120,
-    "category": "How You Make Me Feel",
-    "reason": "Excited about waking up tomorrow because you're there",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Uzbuđenim zbog buđenja sutra jer si tu",
     "emoji": "⏰"
   },
   {
     "id": 121,
-    "category": "Your Smile",
-    "reason": "How you smile when you're winning at games",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ kada pobjeđuješ u igrama",
     "emoji": "🏅"
   },
   {
     "id": 122,
-    "category": "Little Things",
-    "reason": "The way you take forever to pick a restaurant",
+    "category": "Male stvari",
+    "reason": "Način na koji ti treba vječnost da odabereš restoran",
     "emoji": "🤔"
   },
   {
     "id": 123,
-    "category": "Your Beautiful Soul",
-    "reason": "How you turn little moments into special memories",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako pretvoriš male trenutke u posebne uspomene",
     "emoji": "✨"
   },
   {
     "id": 124,
-    "category": "Dreams & Future",
-    "reason": "Imagining us hosting crazy family holidays",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje kako ugošćujemo lude obiteljske praznike",
     "emoji": "🦃"
   },
   {
     "id": 125,
-    "category": "How You Make Me Feel",
-    "reason": "Like every day is better just because you're in it",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da je svaki dan bolji samo zato što si u njemu",
     "emoji": "☀️"
   },
   {
     "id": 126,
-    "category": "Inside Jokes",
-    "reason": "That embarrassing thing that happened at the restaurant",
+    "category": "Šale",
+    "reason": "Ta neugodna stvar koja se dogodila u restoranu",
     "emoji": "🍽️"
   },
   {
     "id": 127,
-    "category": "Little Things",
-    "reason": "Your evening skincare routine that's like a ceremony",
+    "category": "Male stvari",
+    "reason": "Tvoja večernja rutina njege kože koja je kao ceremonija",
     "emoji": "🧴"
   },
   {
     "id": 128,
-    "category": "Your Smile",
-    "reason": "That guilty smile when you've eaten my snacks",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj krivi osmijeh kada si pojela moje grickalice",
     "emoji": "🍫"
   },
   {
     "id": 129,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you make time for people who need you",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji nađeš vrijeme za ljude kojima si potrebna",
     "emoji": "⏳"
   },
   {
     "id": 130,
-    "category": "Dreams & Future",
-    "reason": "Planning our 'bucket list' adventures together",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje naše 'bucket liste' avantura zajedno",
     "emoji": "📝"
   },
   {
     "id": 131,
-    "category": "How You Make Me Feel",
-    "reason": "Like I can share anything without fear of judgment",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da mogu podijeliti bilo što bez straha od osuđivanja",
     "emoji": "🗝️"
   },
   {
     "id": 132,
-    "category": "Little Things",
-    "reason": "How you always find the best parking spots",
+    "category": "Male stvari",
+    "reason": "Kako uvijek pronađeš najbolja parkirna mjesta",
     "emoji": "🚗"
   },
   {
     "id": 133,
-    "category": "Inside Jokes",
-    "reason": "Our dramatic reenactments of mundane things",
+    "category": "Šale",
+    "reason": "Naše dramske rekonstrukcije svakodnevnih stvari",
     "emoji": "🎭"
   },
   {
     "id": 134,
-    "category": "Your Smile",
-    "reason": "The smile when you're proud of yourself",
+    "category": "Tvoj osmijeh",
+    "reason": "Osmijeh kada si ponosna na sebe",
     "emoji": "😊"
   },
   {
     "id": 135,
-    "category": "Your Beautiful Soul",
-    "reason": "How you turn your pain into empathy for others",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako svoju bol pretvoriš u empatiju prema drugima",
     "emoji": "🤲"
   },
   {
     "id": 136,
-    "category": "Little Things",
-    "reason": "The way you organize your apps by color",
+    "category": "Male stvari",
+    "reason": "Način na koji organiziraš svoje aplikacije po boji",
     "emoji": "📱"
   },
   {
     "id": 137,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm the main character in my own love story",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam glavni lik u svojoj ljubavnoj priči",
     "emoji": "📚"
   },
   {
     "id": 138,
-    "category": "Dreams & Future",
-    "reason": "Planning to learn new things together when we're old",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje učenja novih stvari zajedno kada budemo stari",
     "emoji": "🎓"
   },
   {
     "id": 139,
-    "category": "Inside Jokes",
-    "reason": "The way we communicate with just eyebrow raises",
+    "category": "Šale",
+    "reason": "Način na koji komuniciramo samo podizanjem obrva",
     "emoji": "🤨"
   },
   {
     "id": 140,
-    "category": "Your Smile",
-    "reason": "How you smile at babies when you think nobody's watching",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ bebama kada misliš da nitko ne gleda",
     "emoji": "👶"
   },
   {
     "id": 141,
-    "category": "Your Beautiful Soul",
-    "reason": "Your courage to be vulnerable and authentic",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja hrabrost da budeš ranjiva i autentična",
     "emoji": "🌟"
   },
   {
     "id": 142,
-    "category": "Little Things",
-    "reason": "How you leave your shoes everywhere",
+    "category": "Male stvari",
+    "reason": "Kako ostavljaš svoje cipele svugdje",
     "emoji": "👟"
   },
   {
     "id": 143,
-    "category": "How You Make Me Feel",
-    "reason": "Whole, happy, and exactly where I belong",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Cjelovito, sretno, i točno tamo gdje pripadam",
     "emoji": "🏡"
   },
   {
     "id": 144,
-    "category": "Dreams & Future",
-    "reason": "Talking about the library we'll have in our future home",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o knjižnici koju ćemo imati u našoj budućoj kući",
     "emoji": "📚"
   },
   {
     "id": 145,
-    "category": "Your Smile",
-    "reason": "That knowing smile when we share the same thought",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj znalački osmijeh kada dijelimo istu misao",
     "emoji": "🔮"
   },
   {
     "id": 146,
-    "category": "Inside Jokes",
-    "reason": "The word that became our code for 'I love you'",
+    "category": "Šale",
+    "reason": "Riječ koja je postala naš kod za 'volim te'",
     "emoji": "🤐"
   },
   {
     "id": 147,
-    "category": "Little Things",
-    "reason": "How you sigh contentedly when you're comfortable",
+    "category": "Male stvari",
+    "reason": "Kako zadovoljno uzdahneš kada si ugodna",
     "emoji": "😌"
   },
   {
     "id": 148,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you champion other people's dreams",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji braniš tuđe snove",
     "emoji": "📣"
   },
   {
     "id": 149,
-    "category": "How You Make Me Feel",
-    "reason": "Like magic exists and it's in your touch",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da magija postoji i ona je u tvom dodiru",
     "emoji": "✨"
   },
   {
     "id": 150,
-    "category": "Little Things",
-    "reason": "Your specific way of folding laundry",
+    "category": "Male stvari",
+    "reason": "Tvoj specifičan način slaganja rublja",
     "emoji": "👕"
   },
   {
     "id": 151,
-    "category": "Dreams & Future",
-    "reason": "Planning to be the cool grandparents someday",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da jednog dana budemo cool baka i djed",
     "emoji": "👴"
   },
   {
     "id": 152,
-    "category": "Your Smile",
-    "reason": "How you smile when listening to your favorite music",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ dok slušaš svoju omiljenu glazbu",
     "emoji": "🎧"
   },
   {
     "id": 153,
-    "category": "Inside Jokes",
-    "reason": "That time we couldn't stop laughing inappropriately",
+    "category": "Šale",
+    "reason": "Onaj put kada nismo mogli prestati smijati se neprikladno",
     "emoji": "🤭"
   },
   {
     "id": 154,
-    "category": "Your Beautiful Soul",
-    "reason": "How you find beauty in things others overlook",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako pronalaziš ljepotu u stvarima koje drugi previđaju",
     "emoji": "🌸"
   },
   {
     "id": 155,
-    "category": "How You Make Me Feel",
-    "reason": "Cherished beyond measure",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Cijenjenim više nego što se može izmjeriti",
     "emoji": "💝"
   },
   {
     "id": 156,
-    "category": "Little Things",
-    "reason": "The way you always lose your phone",
+    "category": "Male stvari",
+    "reason": "Način na koji uvijek izgubiš svoj telefon",
     "emoji": "📱"
   },
   {
     "id": 157,
-    "category": "Your Smile",
-    "reason": "That peaceful smile when you're reading",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj mirni osmijeh kada čitaš",
     "emoji": "📖"
   },
   {
     "id": 158,
-    "category": "Dreams & Future",
-    "reason": "Imagining all the pets we'll rescue together",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje svih kućnih ljubimaca koje ćemo zajedno spasiti",
     "emoji": "🐾"
   },
   {
     "id": 159,
-    "category": "Your Beautiful Soul",
-    "reason": "How you maintain your values even under pressure",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako držiš svoje vrijednosti čak i pod pritiskom",
     "emoji": "💎"
   },
   {
     "id": 160,
-    "category": "Inside Jokes",
-    "reason": "The ridiculous debate we have that never ends",
+    "category": "Šale",
+    "reason": "Smiješna rasprava koju imamo a nikada ne završava",
     "emoji": "⚔️"
   },
   {
     "id": 161,
-    "category": "Little Things",
-    "reason": "How you make up songs about everything",
+    "category": "Male stvari",
+    "reason": "Kako izmišljaš pjesme o svemu",
     "emoji": "🎶"
   },
   {
     "id": 162,
-    "category": "How You Make Me Feel",
-    "reason": "Like every moment is an opportunity for joy",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da je svaki trenutak prilika za radost",
     "emoji": "🎊"
   },
   {
     "id": 163,
-    "category": "Your Smile",
-    "reason": "The way your smile reaches your eyes",
+    "category": "Tvoj osmijeh",
+    "reason": "Način na koji tvoj osmijeh doseže do očiju",
     "emoji": "👁️"
   },
   {
     "id": 164,
-    "category": "Dreams & Future",
-    "reason": "Planning to take dance lessons when we're sixty",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da idemo na satove plesa kada budemo imali šezdeset",
     "emoji": "💃"
   },
   {
     "id": 165,
-    "category": "Your Beautiful Soul",
-    "reason": "Your ability to admit mistakes and grow",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja sposobnost priznavanja grešaka i rasta",
     "emoji": "🌱"
   },
   {
     "id": 166,
-    "category": "Little Things",
-    "reason": "How you wrap yourself in the shower curtain",
+    "category": "Male stvari",
+    "reason": "Kako se omotavaš u zavjesu za tuš",
     "emoji": "🚿"
   },
   {
     "id": 167,
-    "category": "Inside Jokes",
-    "reason": "The story we tell differently every time",
+    "category": "Šale",
+    "reason": "Priča koju pričamo različito svaki put",
     "emoji": "📜"
   },
   {
     "id": 168,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm exactly enough, never too much or too little",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam točno dovoljno, nikada previše ili premalo",
     "emoji": "⚖️"
   },
   {
     "id": 169,
-    "category": "Your Smile",
-    "reason": "How you smile at compliments from kids",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ na komplimente od djece",
     "emoji": "👧"
   },
   {
     "id": 170,
-    "category": "Little Things",
-    "reason": "The way you always need one more blanket",
+    "category": "Male stvari",
+    "reason": "Način na koji ti uvijek treba još jedna deka",
     "emoji": "🧊"
   },
   {
     "id": 171,
-    "category": "Dreams & Future",
-    "reason": "Planning to write our love story someday",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da jednog dana napišemo našu ljubavnu priču",
     "emoji": "✍️"
   },
   {
     "id": 172,
-    "category": "Your Beautiful Soul",
-    "reason": "How you face your fears head-on",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako se suočavaš sa svojim strahovima izravno",
     "emoji": "🦸"
   },
   {
     "id": 173,
-    "category": "Inside Jokes",
-    "reason": "The game we invented during that boring party",
+    "category": "Šale",
+    "reason": "Igra koju smo izmislili tijekom te dosadne zabave",
     "emoji": "🎪"
   },
   {
     "id": 174,
-    "category": "How You Make Me Feel",
-    "reason": "Like I've known you forever and just met you at once",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da te poznajem zauvijek i tek sam te upoznao istovremeno",
     "emoji": "♾️"
   },
   {
     "id": 175,
-    "category": "Your Smile",
-    "reason": "That smile when you've had your morning coffee",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh nakon što si popila jutarnju kavu",
     "emoji": "☕"
   },
   {
     "id": 176,
-    "category": "Little Things",
-    "reason": "How you always check if I need anything",
+    "category": "Male stvari",
+    "reason": "Kako uvijek provjeravaš trebam li nešto",
     "emoji": "❓"
   },
   {
     "id": 177,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you celebrate the small wins",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji slavi male pobjede",
     "emoji": "🏆"
   },
   {
     "id": 178,
-    "category": "Dreams & Future",
-    "reason": "Talking about opening a cozy café together",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o otvaranju ugodnog kafića zajedno",
     "emoji": "☕"
   },
   {
     "id": 179,
-    "category": "Inside Jokes",
-    "reason": "Our made-up holiday that only we celebrate",
+    "category": "Šale",
+    "reason": "Naš izmišljeni praznik koji samo mi slavimo",
     "emoji": "🎈"
   },
   {
     "id": 180,
-    "category": "How You Make Me Feel",
-    "reason": "Like every love cliché suddenly makes perfect sense",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da svaki ljubavni klišej odjednom ima savršen smisao",
     "emoji": "💘"
   },
   {
     "id": 181,
-    "category": "Little Things",
-    "reason": "The way you point at things with your whole hand",
+    "category": "Male stvari",
+    "reason": "Način na koji pokazuješ na stvari cijelom rukom",
     "emoji": "👆"
   },
   {
     "id": 182,
-    "category": "Your Smile",
-    "reason": "How you smile in old couple photos we see",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ na starih parova fotografije koje vidimo",
     "emoji": "🖼️"
   },
   {
     "id": 183,
-    "category": "Your Beautiful Soul",
-    "reason": "Your ability to find the silver lining always",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja sposobnost pronalaženja svijetle strane uvijek",
     "emoji": "☁️"
   },
   {
     "id": 184,
-    "category": "Dreams & Future",
-    "reason": "Planning the perfect proposal for renewing vows",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje savršene prosidbe za obnavljanje zavjeta",
     "emoji": "💍"
   },
   {
     "id": 185,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm living in a dream I never want to wake from",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da živim u snu iz kojeg se nikada ne želim probuditi",
     "emoji": "💤"
   },
   {
     "id": 186,
-    "category": "Inside Jokes",
-    "reason": "The character voices we do that crack each other up",
+    "category": "Šale",
+    "reason": "Glasovi likova koje radimo a razbijaju nas od smijeha",
     "emoji": "🎭"
   },
   {
     "id": 187,
-    "category": "Little Things",
-    "reason": "How you always have snacks in your bag",
+    "category": "Male stvari",
+    "reason": "Kako uvijek imaš grickalice u svojoj torbi",
     "emoji": "🎒"
   },
   {
     "id": 188,
-    "category": "Your Smile",
-    "reason": "That smile when you're about to surprise me",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada me spremuješ iznenaditi",
     "emoji": "🎁"
   },
   {
     "id": 189,
-    "category": "Your Beautiful Soul",
-    "reason": "How you show up for people in their darkest moments",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako se pojaviš za ljude u njihovim najmračnijim trenucima",
     "emoji": "🕯️"
   },
   {
     "id": 190,
-    "category": "Little Things",
-    "reason": "The way you fidget with your jewelry",
+    "category": "Male stvari",
+    "reason": "Način na koji se poigravaš sa svojim nakitom",
     "emoji": "💍"
   },
   {
     "id": 191,
-    "category": "How You Make Me Feel",
-    "reason": "Understood in ways I can't even explain to myself",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Shvaćeno na načine koje ne mogu ni sebi objasniti",
     "emoji": "🔮"
   },
   {
     "id": 192,
-    "category": "Dreams & Future",
-    "reason": "Planning which countries we'll live in temporarily",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje u kojim zemljama ćemo privremeno živjeti",
     "emoji": "🌏"
   },
   {
     "id": 193,
-    "category": "Inside Jokes",
-    "reason": "The pact we made that seems crazy to everyone else",
+    "category": "Šale",
+    "reason": "Pakt koji smo sklopili a svima drugima se čini luđački",
     "emoji": "🤝"
   },
   {
     "id": 194,
-    "category": "Your Smile",
-    "reason": "How you smile when you're falling asleep",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ dok zaspivaš",
     "emoji": "😴"
   },
   {
     "id": 195,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you protect the people you love fiercely",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji ljuto braniš ljude koje voliš",
     "emoji": "🛡️"
   },
   {
     "id": 196,
-    "category": "Little Things",
-    "reason": "How you take photos of everything pretty you see",
+    "category": "Male stvari",
+    "reason": "Kako fotografiraš sve lijepo što vidiš",
     "emoji": "📸"
   },
   {
     "id": 197,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm part of the most exclusive club of two",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam dio najekskluzivnijeg kluba za dvoje",
     "emoji": "🎫"
   },
   {
     "id": 198,
-    "category": "Dreams & Future",
-    "reason": "Imagining us still flirting at ninety",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje kako se još uvijek flertujemo sa devedeset",
     "emoji": "👵"
   },
   {
     "id": 199,
-    "category": "Your Smile",
-    "reason": "That smile when you accomplish something difficult",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada postigneš nešto teško",
     "emoji": "🎯"
   },
   {
     "id": 200,
-    "category": "Inside Jokes",
-    "reason": "The way we order for each other and get it wrong",
+    "category": "Šale",
+    "reason": "Način na koji naručujemo jedno za drugo i pogriješimo",
     "emoji": "🍽️"
   },
   {
     "id": 201,
-    "category": "Your Beautiful Soul",
-    "reason": "How you make room in your heart for everyone",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako napraviš mjesto u svom srcu za sve",
     "emoji": "❤️"
   },
   {
     "id": 202,
-    "category": "Little Things",
-    "reason": "The way you do a little celebration dance",
+    "category": "Male stvari",
+    "reason": "Način na koji radiš mali slavlje ples",
     "emoji": "🎉"
   },
   {
     "id": 203,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm worthy of this incredible love",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam dostojan ove nevjerojatne ljubavi",
     "emoji": "👑"
   },
   {
     "id": 204,
-    "category": "Dreams & Future",
-    "reason": "Planning to learn a new language together",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje učenja novog jezika zajedno",
     "emoji": "🗣️"
   },
   {
     "id": 205,
-    "category": "Your Smile",
-    "reason": "How you smile at animals doing silly things",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ životinjama koje rade gluposti",
     "emoji": "🐶"
   },
   {
     "id": 206,
-    "category": "Little Things",
-    "reason": "The way you stretch like a cat when you wake up",
+    "category": "Male stvari",
+    "reason": "Način na koji se istežeš kao mačka kada se probudiš",
     "emoji": "🐱"
   },
   {
     "id": 207,
-    "category": "Inside Jokes",
-    "reason": "That weird thing we do when we're alone in elevators",
+    "category": "Šale",
+    "reason": "Ta čudna stvar koju radimo kada smo sami u liftovima",
     "emoji": "🛗"
   },
   {
     "id": 208,
-    "category": "Your Beautiful Soul",
-    "reason": "Your wisdom in knowing when to speak and when to listen",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja mudrost u znanju kada govoriti a kada slušati",
     "emoji": "🦉"
   },
   {
     "id": 209,
-    "category": "How You Make Me Feel",
-    "reason": "Like the universe conspired to bring us together",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da se svemir urotio da nas spoji",
     "emoji": "🌌"
   },
   {
     "id": 210,
-    "category": "Little Things",
-    "reason": "How you always remember important dates",
+    "category": "Male stvari",
+    "reason": "Kako uvijek zapamtiš važne datume",
     "emoji": "📅"
   },
   {
     "id": 211,
-    "category": "Dreams & Future",
-    "reason": "Talking about all the anniversaries we'll celebrate",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o svim godišnjicama koje ćemo slaviti",
     "emoji": "🎊"
   },
   {
     "id": 212,
-    "category": "Your Smile",
-    "reason": "That smile when you're being sarcastic",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada si sarkastična",
     "emoji": "😏"
   },
   {
     "id": 213,
-    "category": "Your Beautiful Soul",
-    "reason": "How you learn from every experience",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako učiš iz svakog iskustva",
     "emoji": "📖"
   },
   {
     "id": 214,
-    "category": "Inside Jokes",
-    "reason": "The absolutely terrible nickname you gave me",
+    "category": "Šale",
+    "reason": "Apsolutno užasan nadimak koji si mi dala",
     "emoji": "🏷️"
   },
   {
     "id": 215,
-    "category": "How You Make Me Feel",
-    "reason": "Motivated to be worthy of your love every day",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Motiviranim da budem dostojan tvoje ljubavi svaki dan",
     "emoji": "💪"
   },
   {
     "id": 216,
-    "category": "Little Things",
-    "reason": "The way you get competitive about silly things",
+    "category": "Male stvari",
+    "reason": "Način na koji postaješ kompetitivna oko glupih stvari",
     "emoji": "🏁"
   },
   {
     "id": 217,
-    "category": "Your Smile",
-    "reason": "How you smile when talking about your dreams",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ kada pričaš o svojim snovima",
     "emoji": "💭"
   },
   {
     "id": 218,
-    "category": "Dreams & Future",
-    "reason": "Planning to take up painting together",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da počnemo zajedno slikati",
     "emoji": "🎨"
   },
   {
     "id": 219,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you love with your whole being",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji voliš cijelim svojim bićem",
     "emoji": "💖"
   },
   {
     "id": 220,
-    "category": "Inside Jokes",
-    "reason": "The ridiculous photo we took that's still hilarious",
+    "category": "Šale",
+    "reason": "Smiješna fotografija koju smo napravili a još uvijek je urnebesna",
     "emoji": "📸"
   },
   {
     "id": 221,
-    "category": "Little Things",
-    "reason": "How you always need to touch the fabric of things",
+    "category": "Male stvari",
+    "reason": "Kako uvijek moraš dodirnuti tkaninu stvari",
     "emoji": "👐"
   },
   {
     "id": 222,
-    "category": "How You Make Me Feel",
-    "reason": "Like every song I hear reminds me of you",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da me svaka pjesma koju čujem podsjeća na tebe",
     "emoji": "🎵"
   },
   {
     "id": 223,
-    "category": "Your Smile",
-    "reason": "That smile when you're being stubborn",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada si tvrdoglava",
     "emoji": "😤"
   },
   {
     "id": 224,
-    "category": "Dreams & Future",
-    "reason": "Imagining our kids having your best qualities",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje da naša djeca imaju tvoje najbolje kvalitete",
     "emoji": "👨‍👩‍👧‍👦"
   },
   {
     "id": 225,
-    "category": "Your Beautiful Soul",
-    "reason": "How you inspire others just by being yourself",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako inspiriš druge samo time što si ti",
     "emoji": "🌟"
   },
   {
     "id": 226,
-    "category": "Little Things",
-    "reason": "The way you hog all the covers at night",
+    "category": "Male stvari",
+    "reason": "Način na koji grobiš sve pokrivače noću",
     "emoji": "🛏️"
   },
   {
     "id": 227,
-    "category": "Inside Jokes",
-    "reason": "The word we can't say without laughing anymore",
+    "category": "Šale",
+    "reason": "Riječ koju više ne možemo izgovoriti bez smijeha",
     "emoji": "😆"
   },
   {
     "id": 228,
-    "category": "How You Make Me Feel",
-    "reason": "Like I finally understand what home means",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da konačno razumijem što znači dom",
     "emoji": "🏠"
   },
   {
     "id": 229,
-    "category": "Your Smile",
-    "reason": "How you smile when you win an argument",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ kada dobiješ svađu",
     "emoji": "🗣️"
   },
   {
     "id": 230,
-    "category": "Little Things",
-    "reason": "The way you always find the coziest spots",
+    "category": "Male stvari",
+    "reason": "Način na koji uvijek pronađeš najugodnije mjesta",
     "emoji": "🛋️"
   },
   {
     "id": 231,
-    "category": "Dreams & Future",
-    "reason": "Planning to write each other letters when we're old",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da pišemo jedno drugom pisma kada budemo stari",
     "emoji": "✉️"
   },
   {
     "id": 232,
-    "category": "Your Beautiful Soul",
-    "reason": "Your gratitude for the little things in life",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja zahvalnost za male stvari u životu",
     "emoji": "🙏"
   },
   {
     "id": 233,
-    "category": "Inside Jokes",
-    "reason": "The tradition we started by accident",
+    "category": "Šale",
+    "reason": "Tradicija koju smo započeli slučajno",
     "emoji": "🎭"
   },
   {
     "id": 234,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm experiencing life in full color for the first time",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da doživljavam život u punim bojama po prvi put",
     "emoji": "🌈"
   },
   {
     "id": 235,
-    "category": "Your Smile",
-    "reason": "That smile when you're plotting something fun",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada kaniš nešto zabavno",
     "emoji": "🤗"
   },
   {
     "id": 236,
-    "category": "Little Things",
-    "reason": "How you always adjust my collar or hair",
+    "category": "Male stvari",
+    "reason": "Kako mi uvijek popraviš ovratnik ili kosu",
     "emoji": "💇"
   },
   {
     "id": 237,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you never give up on people",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji nikada ne odustaneš od ljudi",
     "emoji": "🤝"
   },
   {
     "id": 238,
-    "category": "Dreams & Future",
-    "reason": "Talking about mentoring young couples someday",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o mentoriranju mladih parova jednog dana",
     "emoji": "💑"
   },
   {
     "id": 239,
-    "category": "Inside Jokes",
-    "reason": "Our private rating system for everything",
+    "category": "Šale",
+    "reason": "Naš privatni sustav ocjenjivanja za sve",
     "emoji": "⭐"
   },
   {
     "id": 240,
-    "category": "How You Make Me Feel",
-    "reason": "Peaceful, even in chaos",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Mirno, čak i u kaosu",
     "emoji": "🕊️"
   },
   {
     "id": 241,
-    "category": "Little Things",
-    "reason": "The way you save the packaging of special things",
+    "category": "Male stvari",
+    "reason": "Način na koji čuvaš pakovanje posebnih stvari",
     "emoji": "📦"
   },
   {
     "id": 242,
-    "category": "Your Smile",
-    "reason": "How you smile at memories we share",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ uspomenama koje dijelimo",
     "emoji": "💭"
   },
   {
     "id": 243,
-    "category": "Your Beautiful Soul",
-    "reason": "Your commitment to personal growth",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja predanost osobnom rastu",
     "emoji": "📈"
   },
   {
     "id": 244,
-    "category": "Dreams & Future",
-    "reason": "Planning to get matching tattoos when we're brave enough",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da napravimo odgovarajuće tetovaže kada budemo dovoljno hrabri",
     "emoji": "🎨"
   },
   {
     "id": 245,
-    "category": "How You Make Me Feel",
-    "reason": "Like I can take on the world",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da mogu preuzeti cijeli svijet",
     "emoji": "🌍"
   },
   {
     "id": 246,
-    "category": "Inside Jokes",
-    "reason": "The way we finish each other's ridiculous sentences",
+    "category": "Šale",
+    "reason": "Način na koji završavamo smiješne rečenice jedno drugome",
     "emoji": "💬"
   },
   {
     "id": 247,
-    "category": "Little Things",
-    "reason": "How you always know what I need before I ask",
+    "category": "Male stvari",
+    "reason": "Kako uvijek znaš što mi treba prije nego zatražim",
     "emoji": "🔮"
   },
   {
     "id": 248,
-    "category": "Your Smile",
-    "reason": "That smile when you first wake up and see me",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada se prvi put probudiš i vidiš me",
     "emoji": "☀️"
   },
   {
     "id": 249,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you handle disappointment with grace",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji se nosiš s razočaranjem s dostojanstvom",
     "emoji": "🌸"
   },
   {
     "id": 250,
-    "category": "Dreams & Future",
-    "reason": "Imagining us celebrating our 50th anniversary",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje kako slavimo našu 50. godišnjicu",
     "emoji": "🎉"
   },
   {
     "id": 251,
-    "category": "Inside Jokes",
-    "reason": "The game we play in grocery stores",
+    "category": "Šale",
+    "reason": "Igra koju igramo u trgovinama",
     "emoji": "🛒"
   },
   {
     "id": 252,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm the best version of myself",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam najbolja verzija sebe",
     "emoji": "✨"
   },
   {
     "id": 253,
-    "category": "Little Things",
-    "reason": "The way you wave at me from far away",
+    "category": "Male stvari",
+    "reason": "Način na koji mi mahneš s daleka",
     "emoji": "👋"
   },
   {
     "id": 254,
-    "category": "Your Smile",
-    "reason": "How you smile when giving gifts",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ kada daješ darove",
     "emoji": "🎁"
   },
   {
     "id": 255,
-    "category": "Your Beautiful Soul",
-    "reason": "Your enthusiasm for learning new things",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoj entuzijazam za učenje novih stvari",
     "emoji": "📚"
   },
   {
     "id": 256,
-    "category": "Dreams & Future",
-    "reason": "Planning to help each other achieve our wildest dreams",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da pomognemo jedno drugom postići naše najluđe snove",
     "emoji": "🚀"
   },
   {
     "id": 257,
-    "category": "How You Make Me Feel",
-    "reason": "Like fairy tales are real",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da su bajke stvarne",
     "emoji": "🧚"
   },
   {
     "id": 258,
-    "category": "Little Things",
-    "reason": "The way you tap your feet to music unconsciously",
+    "category": "Male stvari",
+    "reason": "Način na koji nesvjesno tupkaš nogama uz glazbu",
     "emoji": "👟"
   },
   {
     "id": 259,
-    "category": "Inside Jokes",
-    "reason": "The made-up sport we created",
+    "category": "Šale",
+    "reason": "Izmišljeni sport koji smo stvorili",
     "emoji": "⚽"
   },
   {
     "id": 260,
-    "category": "Your Smile",
-    "reason": "That smile when you're genuinely surprised",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada si istinski iznenađena",
     "emoji": "😲"
   },
   {
     "id": 261,
-    "category": "Your Beautiful Soul",
-    "reason": "How you see potential in everything and everyone",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako vidiš potencijal u svemu i svima",
     "emoji": "🌱"
   },
   {
     "id": 262,
-    "category": "Little Things",
-    "reason": "The way you reorganize things 'your way'",
+    "category": "Male stvari",
+    "reason": "Način na koji reorganiziraš stvari 'na svoj način'",
     "emoji": "📐"
   },
   {
     "id": 263,
-    "category": "Dreams & Future",
-    "reason": "Talking about the charities we'll support together",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o dobrotvornim organizacijama koje ćemo zajedno podržavati",
     "emoji": "🤲"
   },
   {
     "id": 264,
-    "category": "How You Make Me Feel",
-    "reason": "Like no time has passed when we're apart and reunite",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da nije prošlo vrijeme kada smo odvojeni i ponovno se okupimo",
     "emoji": "⏳"
   },
   {
     "id": 265,
-    "category": "Inside Jokes",
-    "reason": "That time we tried something new and failed spectacularly",
+    "category": "Šale",
+    "reason": "Onaj put kada smo pokušali nešto novo i spektakularno propali",
     "emoji": "💥"
   },
   {
     "id": 266,
-    "category": "Your Smile",
-    "reason": "How you smile at inside jokes in public",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ našim šalama na javnom mjestu",
     "emoji": "🤫"
   },
   {
     "id": 267,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you treat everyone with respect",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji tretraš sve s poštovanjem",
     "emoji": "🤝"
   },
   {
     "id": 268,
-    "category": "Little Things",
-    "reason": "How you always find the good channels right away",
+    "category": "Male stvari",
+    "reason": "Kako uvijek odmah pronađeš dobre kanale",
     "emoji": "📺"
   },
   {
     "id": 269,
-    "category": "How You Make Me Feel",
-    "reason": "Adventurous and ready to try anything",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Avanturistički i spremno pokušati bilo što",
     "emoji": "🧗"
   },
   {
     "id": 270,
-    "category": "Dreams & Future",
-    "reason": "Planning what we'll name all our future pets",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje kako ćemo nazvati sve naše buduće kućne ljubimce",
     "emoji": "🐕"
   },
   {
     "id": 271,
-    "category": "Your Smile",
-    "reason": "That smile when you're being extra",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada si extra",
     "emoji": "💅"
   },
   {
     "id": 272,
-    "category": "Inside Jokes",
-    "reason": "The conspiracy theory we jokingly created",
+    "category": "Šale",
+    "reason": "Teorija zavjere koju smo u šali stvorili",
     "emoji": "👽"
   },
   {
     "id": 273,
-    "category": "Your Beautiful Soul",
-    "reason": "How you make ordinary moments extraordinary",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako činiš obične trenutke izvanrednim",
     "emoji": "✨"
   },
   {
     "id": 274,
-    "category": "Little Things",
-    "reason": "The way you commentate on what you're doing",
+    "category": "Male stvari",
+    "reason": "Način na koji komentirat što radiš",
     "emoji": "🎙️"
   },
   {
     "id": 275,
-    "category": "How You Make Me Feel",
-    "reason": "Like I hit the jackpot in life",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam dobio na lutriji u životu",
     "emoji": "🎰"
   },
   {
     "id": 276,
-    "category": "Dreams & Future",
-    "reason": "Imagining us as the fun aunt and uncle",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje nas kao zabavne tete i teče",
     "emoji": "🎪"
   },
   {
     "id": 277,
-    "category": "Your Smile",
-    "reason": "How you smile when you're up to mischief",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ kada kuhaš nešto",
     "emoji": "😈"
   },
   {
     "id": 278,
-    "category": "Little Things",
-    "reason": "The way you collect random interesting objects",
+    "category": "Male stvari",
+    "reason": "Način na koji skupljaš nasumične zanimljive objekte",
     "emoji": "🗿"
   },
   {
     "id": 279,
-    "category": "Inside Jokes",
-    "reason": "The ridiculous thing we did on a dare",
+    "category": "Šale",
+    "reason": "Smiješna stvar koju smo uradili na izazov",
     "emoji": "🤪"
   },
   {
     "id": 280,
-    "category": "Your Beautiful Soul",
-    "reason": "Your ability to make anyone feel special",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja sposobnost da svakoga natjeraš da se osjeća posebno",
     "emoji": "⭐"
   },
   {
     "id": 281,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm capable of anything",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam sposoban za bilo što",
     "emoji": "🦸"
   },
   {
     "id": 282,
-    "category": "Dreams & Future",
-    "reason": "Planning to keep dating each other forever",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da nastavimo spojeti jedno s drugim zauvijek",
     "emoji": "💏"
   },
   {
     "id": 283,
-    "category": "Your Smile",
-    "reason": "That smile when you know you're right",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada znaš da si u pravu",
     "emoji": "😌"
   },
   {
     "id": 284,
-    "category": "Little Things",
-    "reason": "How you always check the weather obsessively",
+    "category": "Male stvari",
+    "reason": "Kako uvijek opsesivno provjeravaš vrijeme",
     "emoji": "🌤️"
   },
   {
     "id": 285,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you never judge people's choices",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji nikada ne osuđuješ tuđe izbore",
     "emoji": "⚖️"
   },
   {
     "id": 286,
-    "category": "Inside Jokes",
-    "reason": "The fortune cookie prediction we reference constantly",
+    "category": "Šale",
+    "reason": "Predviđanje iz kolačića sreće na koje se stalno referiramo",
     "emoji": "🥠"
   },
   {
     "id": 287,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm starring in my own romance movie",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da glumim u vlastitom romantičnom filmu",
     "emoji": "🎬"
   },
   {
     "id": 288,
-    "category": "Little Things",
-    "reason": "The way you always find lost items somehow",
+    "category": "Male stvari",
+    "reason": "Način na koji uvijek nekako pronađeš izgubljene stvari",
     "emoji": "🔍"
   },
   {
     "id": 289,
-    "category": "Dreams & Future",
-    "reason": "Talking about being neighbors with our best friends",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o tome da budemo susjedi s najboljim prijateljima",
     "emoji": "🏘️"
   },
   {
     "id": 290,
-    "category": "Your Smile",
-    "reason": "How you smile when you're embarrassed",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ kada si posramljena",
     "emoji": "😳"
   },
   {
     "id": 291,
-    "category": "Your Beautiful Soul",
-    "reason": "Your ability to adapt to any situation",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja sposobnost prilagođavanja svakoj situaciji",
     "emoji": "🦎"
   },
   {
     "id": 292,
-    "category": "Inside Jokes",
-    "reason": "That phase we went through that was weird but fun",
+    "category": "Šale",
+    "reason": "Ta faza kroz koju smo prošli a bila je čudna ali zabavna",
     "emoji": "🎨"
   },
   {
     "id": 293,
-    "category": "How You Make Me Feel",
-    "reason": "Like no one else exists when we're together",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da nitko drugi ne postoji kada smo zajedno",
     "emoji": "🌟"
   },
   {
     "id": 294,
-    "category": "Little Things",
-    "reason": "The way you make sound effects for everything",
+    "category": "Male stvari",
+    "reason": "Način na koji izrađuješ zvučne efekte za sve",
     "emoji": "🔊"
   },
   {
     "id": 295,
-    "category": "Dreams & Future",
-    "reason": "Planning to stay young at heart forever",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da ostanemo mladi u duši zauvijek",
     "emoji": "🎈"
   },
   {
     "id": 296,
-    "category": "Your Smile",
-    "reason": "That smile when you're lost in thought about us",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada si izgubljena u mislima o nama",
     "emoji": "💭"
   },
   {
     "id": 297,
-    "category": "Your Beautiful Soul",
-    "reason": "How you choose kindness even when it's hard",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako biraš dobrotu čak i kada je teško",
     "emoji": "💝"
   },
   {
     "id": 298,
-    "category": "Little Things",
-    "reason": "The way you have a specific playlist for everything",
+    "category": "Male stvari",
+    "reason": "Način na koji imaš specifičnu playlistu za sve",
     "emoji": "🎵"
   },
   {
     "id": 299,
-    "category": "Inside Jokes",
-    "reason": "The TV show character that IS you",
+    "category": "Šale",
+    "reason": "Lik iz TV serije koji SI TI",
     "emoji": "📺"
   },
   {
     "id": 300,
-    "category": "How You Make Me Feel",
-    "reason": "Like every day is Valentine's Day",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da je svaki dan Valentinovo",
     "emoji": "💝"
   },
   {
     "id": 301,
-    "category": "Your Smile",
-    "reason": "How you smile when giving bad news gently",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ kada nježno daješ loše vijesti",
     "emoji": "😊"
   },
   {
     "id": 302,
-    "category": "Dreams & Future",
-    "reason": "Imagining us living in a tiny house adventure",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje kako živimo u maloj kući avanturi",
     "emoji": "🏡"
   },
   {
     "id": 303,
-    "category": "Your Beautiful Soul",
-    "reason": "The way you find humor in difficult situations",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Način na koji pronalaziš humor u teškim situacijama",
     "emoji": "😄"
   },
   {
     "id": 304,
-    "category": "Little Things",
-    "reason": "How you always have to touch everything soft",
+    "category": "Male stvari",
+    "reason": "Kako uvijek moraš dodirnuti sve mekano",
     "emoji": "🧸"
   },
   {
     "id": 305,
-    "category": "Inside Jokes",
-    "reason": "The celebrity we both have a pass for",
+    "category": "Šale",
+    "reason": "Slavna osoba za koju oboje imamo dozvolu",
     "emoji": "🌟"
   },
   {
     "id": 306,
-    "category": "How You Make Me Feel",
-    "reason": "Like I've won the lottery of love",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam dobio na lutriji ljubavi",
     "emoji": "🎰"
   },
   {
     "id": 307,
-    "category": "Your Smile",
-    "reason": "That smile when you're full of confidence",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada si puna samopouzdanja",
     "emoji": "😎"
   },
   {
     "id": 308,
-    "category": "Little Things",
-    "reason": "The way you button/unbutton things absentmindedly",
+    "category": "Male stvari",
+    "reason": "Način na koji zakopčavaš/otkopčavaš stvari odsutno",
     "emoji": "👔"
   },
   {
     "id": 309,
-    "category": "Dreams & Future",
-    "reason": "Planning to document our life in photo albums",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje dokumentiranja našeg života u foto albumima",
     "emoji": "📸"
   },
   {
     "id": 310,
-    "category": "Your Beautiful Soul",
-    "reason": "How you believe in second chances",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako vjeruješ u drugu priliku",
     "emoji": "🌈"
   },
   {
     "id": 311,
-    "category": "Inside Jokes",
-    "reason": "The thing we witnessed that nobody believes",
+    "category": "Šale",
+    "reason": "Stvar kojoj smo svjedočili a nitko ne vjeruje",
     "emoji": "👀"
   },
   {
     "id": 312,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm part of something magical",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam dio nečeg čarobnog",
     "emoji": "🪄"
   },
   {
     "id": 313,
-    "category": "Your Smile",
-    "reason": "How you smile when recommending something you love",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ kada preporučuješ nešto što voliš",
     "emoji": "💕"
   },
   {
     "id": 314,
-    "category": "Little Things",
-    "reason": "The way you always pick the perfect gifts",
+    "category": "Male stvari",
+    "reason": "Način na koji uvijek biraš savršene darove",
     "emoji": "🎁"
   },
   {
     "id": 315,
-    "category": "Your Beautiful Soul",
-    "reason": "Your openness to new perspectives",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja otvorenost prema novim perspektivama",
     "emoji": "🌍"
   },
   {
     "id": 316,
-    "category": "Dreams & Future",
-    "reason": "Talking about which skills we'll teach each other",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o tome koje vještine ćemo naučiti jedno drugo",
     "emoji": "👨‍🏫"
   },
   {
     "id": 317,
-    "category": "Inside Jokes",
-    "reason": "The absolutely perfect comedic timing we have",
+    "category": "Šale",
+    "reason": "Apsolutno savršen komični tajming koji imamo",
     "emoji": "⏰"
   },
   {
     "id": 318,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm exactly where the universe intended",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam točno tamo gdje je svemir namjeravao",
     "emoji": "🌌"
   },
   {
     "id": 319,
-    "category": "Little Things",
-    "reason": "The way you greet me after we've been apart",
+    "category": "Male stvari",
+    "reason": "Način na koji me pozdravljaš nakon što smo bili odvojeni",
     "emoji": "🤗"
   },
   {
     "id": 320,
-    "category": "Your Smile",
-    "reason": "That smile when you realize I've done something sweet",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada shvatiš da sam učinio nešto slatko",
     "emoji": "🥰"
   },
   {
     "id": 321,
-    "category": "Your Beautiful Soul",
-    "reason": "How you balance strength and gentleness",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako balanširaš snagu i nježnost",
     "emoji": "⚖️"
   },
   {
     "id": 322,
-    "category": "Dreams & Future",
-    "reason": "Planning to make every anniversary more special",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da svaku godišnjicu učinimo posebnijom",
     "emoji": "💖"
   },
   {
     "id": 323,
-    "category": "Inside Jokes",
-    "reason": "The bet we made that's still ongoing",
+    "category": "Šale",
+    "reason": "Oklada koju smo sklopili a još uvijek traje",
     "emoji": "🎲"
   },
   {
     "id": 324,
-    "category": "How You Make Me Feel",
-    "reason": "Like time is both too fast and perfectly slow",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da je vrijeme i prebrzo i savršeno sporo",
     "emoji": "⏱️"
   },
   {
     "id": 325,
-    "category": "Little Things",
-    "reason": "The way you always double-check everything",
+    "category": "Male stvari",
+    "reason": "Način na koji uvijek dvaput provjeravaš sve",
     "emoji": "✅"
   },
   {
     "id": 326,
-    "category": "Your Smile",
-    "reason": "How you smile when you're being playfully mean",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ kada si igralački zla",
     "emoji": "😈"
   },
   {
     "id": 327,
-    "category": "Your Beautiful Soul",
-    "reason": "Your grace in handling awkward situations",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoje dostojanstvo u rješavanju neugodnih situacija",
     "emoji": "💃"
   },
   {
     "id": 328,
-    "category": "Dreams & Future",
-    "reason": "Imagining us recommitting to each other every year",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje kako se ponovo obvezujemo jedno drugome svake godine",
     "emoji": "💍"
   },
   {
     "id": 329,
-    "category": "Inside Jokes",
-    "reason": "The place that's 'our place' for no real reason",
+    "category": "Šale",
+    "reason": "Mjesto koje je 'naše mjesto' bez pravog razloga",
     "emoji": "📍"
   },
   {
     "id": 330,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm living proof that soulmates exist",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam živi dokaz da srodne duše postoje",
     "emoji": "👫"
   },
   {
     "id": 331,
-    "category": "Little Things",
-    "reason": "The way you arrange things symmetrically",
+    "category": "Male stvari",
+    "reason": "Način na koji slažeš stvari simetrično",
     "emoji": "⚖️"
   },
   {
     "id": 332,
-    "category": "Your Smile",
-    "reason": "That smile when you see something that reminds you of me",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh kada vidiš nešto što te podsjeća na mene",
     "emoji": "💭"
   },
   {
     "id": 333,
-    "category": "Your Beautiful Soul",
-    "reason": "How you own your quirks with confidence",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako posjeduješ svoje čudnosti s pouzdanjem",
     "emoji": "✨"
   },
   {
     "id": 334,
-    "category": "Dreams & Future",
-    "reason": "Planning to grow old disgracefully together",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da ostarimo bestidno zajedno",
     "emoji": "👴"
   },
   {
     "id": 335,
-    "category": "Inside Jokes",
-    "reason": "The thing we always say in that specific voice",
+    "category": "Šale",
+    "reason": "Stvar koju uvijek kažemo tim specifičnim glasom",
     "emoji": "🗣️"
   },
   {
     "id": 336,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm in a constant state of grateful disbelief",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam u stalnom stanju zahvalnog nevjerovanja",
     "emoji": "🙏"
   },
   {
     "id": 337,
-    "category": "Little Things",
-    "reason": "The way you celebrate even tiny victories",
+    "category": "Male stvari",
+    "reason": "Način na koji slaviš čak i sitne pobjede",
     "emoji": "🎊"
   },
   {
     "id": 338,
-    "category": "Your Smile",
-    "reason": "How you smile while pretending to be annoyed",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ dok se pretvraš da si ljuta",
     "emoji": "😤"
   },
   {
     "id": 339,
-    "category": "Your Beautiful Soul",
-    "reason": "Your ability to see people for who they really are",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja sposobnost viđenja ljudi kakvi stvarno jesu",
     "emoji": "👁️"
   },
   {
     "id": 340,
-    "category": "Dreams & Future",
-    "reason": "Talking about the legacy of love we'll leave",
+    "category": "Snovi i budućnost",
+    "reason": "Pričanje o nasljeđu ljubavi koje ćemo ostaviti",
     "emoji": "💝"
   },
   {
     "id": 341,
-    "category": "Inside Jokes",
-    "reason": "The story we've embellished so much it's mythology now",
+    "category": "Šale",
+    "reason": "Priča koju smo toliko uljepšali da je sada mitologija",
     "emoji": "📜"
   },
   {
     "id": 342,
-    "category": "How You Make Me Feel",
-    "reason": "Like I've found my forever",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da sam pronašao svoju zauvijek",
     "emoji": "♾️"
   },
   {
     "id": 343,
-    "category": "Little Things",
-    "reason": "The way you make everything into a game",
+    "category": "Male stvari",
+    "reason": "Način na koji pretvoriš sve u igru",
     "emoji": "🎮"
   },
   {
     "id": 344,
-    "category": "Your Smile",
-    "reason": "That smile that says 'I told you so' without words",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh koji kaže 'rekla sam ti' bez riječi",
     "emoji": "😏"
   },
   {
     "id": 345,
-    "category": "Your Beautiful Soul",
-    "reason": "How you invest in relationships that matter",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako ulaže u odnose koji su važni",
     "emoji": "💰"
   },
   {
     "id": 346,
-    "category": "Dreams & Future",
-    "reason": "Planning to surprise each other forever",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da se iznenađujemo jedno drugo zauvijek",
     "emoji": "🎁"
   },
   {
     "id": 347,
-    "category": "Inside Jokes",
-    "reason": "The ritual we do before important things",
+    "category": "Šale",
+    "reason": "Ritual koji radimo prije važnih stvari",
     "emoji": "🎭"
   },
   {
     "id": 348,
-    "category": "How You Make Me Feel",
-    "reason": "Like every cliché about love is actually true",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da je svaki klišej o ljubavi zapravo istina",
     "emoji": "💘"
   },
   {
     "id": 349,
-    "category": "Little Things",
-    "reason": "The way you know all my orders and preferences",
+    "category": "Male stvari",
+    "reason": "Način na koji znaš sve moje narudžbe i preferencije",
     "emoji": "📋"
   },
   {
     "id": 350,
-    "category": "Your Smile",
-    "reason": "How you smile at our future when we talk about it",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako se smiješ našoj budućnosti kada pričamo o njoj",
     "emoji": "🔮"
   },
   {
     "id": 351,
-    "category": "Your Beautiful Soul",
-    "reason": "Your commitment to being authentic always",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Tvoja predanost da uvijek budeš autentična",
     "emoji": "💎"
   },
   {
     "id": 352,
-    "category": "Dreams & Future",
-    "reason": "Imagining us still having date nights at eighty",
+    "category": "Snovi i budućnost",
+    "reason": "Zamišljanje da još uvijek imamo spojeve sa osamdeset",
     "emoji": "🌃"
   },
   {
     "id": 353,
-    "category": "Inside Jokes",
-    "reason": "The look we give each other that says everything",
+    "category": "Šale",
+    "reason": "Pogled koji si međusobno bacimo a kaže sve",
     "emoji": "👀"
   },
   {
     "id": 354,
-    "category": "How You Make Me Feel",
-    "reason": "Like I want to be better for you and for us",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da želim biti bolji za tebe i za nas",
     "emoji": "🌟"
   },
   {
     "id": 355,
-    "category": "Little Things",
-    "reason": "The way you light up talking about your passions",
+    "category": "Male stvari",
+    "reason": "Način na koji zasijaš kada pričaš o svojim strastima",
     "emoji": "💡"
   },
   {
     "id": 356,
-    "category": "Your Smile",
-    "reason": "That smile that's just for me",
+    "category": "Tvoj osmijeh",
+    "reason": "Taj osmijeh koji je samo za mene",
     "emoji": "😍"
   },
   {
     "id": 357,
-    "category": "Your Beautiful Soul",
-    "reason": "How you love fiercely and completely",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Kako voliš žestoko i potpuno",
     "emoji": "🔥"
   },
   {
     "id": 358,
-    "category": "Dreams & Future",
-    "reason": "Planning to keep choosing each other every day",
+    "category": "Snovi i budućnost",
+    "reason": "Planiranje da nastavimo birati jedno drugo svaki dan",
     "emoji": "💑"
   },
   {
     "id": 359,
-    "category": "Inside Jokes",
-    "reason": "The thing that happened that we'll laugh about forever",
+    "category": "Šale",
+    "reason": "Stvar koja se dogodila a smijat ćemo se zauvijek",
     "emoji": "😆"
   },
   {
     "id": 360,
-    "category": "How You Make Me Feel",
-    "reason": "Like I'm experiencing what true love really means",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Kao da doživljavam što prava ljubav stvarno znači",
     "emoji": "❤️"
   },
   {
     "id": 361,
-    "category": "Little Things",
-    "reason": "Every small moment that makes up our story",
+    "category": "Male stvari",
+    "reason": "Svaki mali trenutak koji čini našu priču",
     "emoji": "📖"
   },
   {
     "id": 362,
-    "category": "Your Smile",
-    "reason": "How your smile is my favorite thing in the world",
+    "category": "Tvoj osmijeh",
+    "reason": "Kako je tvoj osmijeh moja omiljena stvar na svijetu",
     "emoji": "🌍"
   },
   {
     "id": 363,
-    "category": "Your Beautiful Soul",
-    "reason": "Simply for being exactly who you are",
+    "category": "Tvoja prekrasna duša",
+    "reason": "Jednostavno zato što si točno onakva kakva jesi",
     "emoji": "⭐"
   },
   {
     "id": 364,
-    "category": "Dreams & Future",
-    "reason": "For all the tomorrows I get to spend with you",
+    "category": "Snovi i budućnost",
+    "reason": "Za sva jutra koja ću provesti s tobom",
     "emoji": "🌅"
   },
   {
     "id": 365,
-    "category": "How You Make Me Feel",
-    "reason": "Because loving you is the easiest and best thing I'll ever do",
+    "category": "Kako me činiš da se osjećam",
+    "reason": "Jer je voljeti te najlakša i najbolja stvar koju ću ikada učiniti",
     "emoji": "💕"
   }
 ]

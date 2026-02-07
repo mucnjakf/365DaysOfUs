@@ -155,6 +155,18 @@ const StorageManager = {
     return !data || data.progress.totalVisits === 1;
   },
 
+  // Reset cards progress only (keep secrets and other data)
+  resetCards() {
+    const data = this.getData();
+    if (data) {
+      data.progress.cardsViewed = [];
+      data.progress.favorites = [];
+      this.saveData(data);
+      return true;
+    }
+    return false;
+  },
+
   // Clear all data (for testing)
   clearAll() {
     try {

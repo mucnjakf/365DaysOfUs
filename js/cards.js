@@ -30,7 +30,7 @@ const CardsManager = {
   setupEventListeners() {
     const showReasonBtn = document.getElementById("show-reason-btn");
     if (showReasonBtn) {
-      showReasonBtn.addEventListener("click", () => this.showRandomReason());
+      showReasonBtn.addEventListener("click", () => this.handleButtonClick());
     }
 
     const viewCollectionBtn = document.getElementById("view-collection-btn");
@@ -75,7 +75,7 @@ const CardsManager = {
     if (cardEmoji) cardEmoji.textContent = "";
     if (cardReason) {
       cardReason.textContent =
-        "Click the button below to discover a reason I love you...";
+        "Klikni na gumb ispod da otkriješ razlog zašto te volim...";
       cardReason.style.fontSize = "1.2rem";
       cardReason.style.opacity = "0.8";
     }
@@ -84,7 +84,21 @@ const CardsManager = {
     }
   },
 
-  // Show a random unviewed reason (or any if all viewed)
+  // Handle button click (show reason or reset based on progress)
+  handleButtonClick() {
+    const viewedCards = StorageManager.getViewedCards();
+    const allViewed = viewedCards.length >= this.reasons.length;
+
+    if (allViewed) {
+      // If all viewed, reset progress
+      this.resetProgress();
+    } else {
+      // Otherwise show next reason
+      this.showRandomReason();
+    }
+  },
+
+  // Show a random unviewed reason
   showRandomReason() {
     if (this.reasons.length === 0) return;
 
@@ -93,13 +107,9 @@ const CardsManager = {
       (r) => !viewedCards.includes(r.id),
     );
 
-    // If all cards viewed, show random from all
-    const poolToChooseFrom =
-      unviewedReasons.length > 0 ? unviewedReasons : this.reasons;
-
-    // Pick random reason
-    const randomIndex = Math.floor(Math.random() * poolToChooseFrom.length);
-    const reason = poolToChooseFrom[randomIndex];
+    // Pick random reason from unviewed
+    const randomIndex = Math.floor(Math.random() * unviewedReasons.length);
+    const reason = unviewedReasons[randomIndex];
 
     this.displayReason(reason);
 
@@ -132,7 +142,7 @@ const CardsManager = {
 
     // Update content with staggered animation
     setTimeout(() => {
-      if (cardNumber) cardNumber.textContent = `Day ${reason.id}`;
+      if (cardNumber) cardNumber.textContent = `Dan ${reason.id}`;
       if (cardCategory) cardCategory.textContent = reason.category;
       if (cardEmoji) cardEmoji.textContent = reason.emoji;
       if (cardReason) {
@@ -198,20 +208,99 @@ const CardsManager = {
     }
   },
 
-  // Update progress bar
+  // Update progress bar and button
   updateProgress() {
     const stats = StorageManager.getStats();
     const percentage = (stats.cardsViewed / stats.totalCards) * 100;
+    const allViewed = stats.cardsViewed >= stats.totalCards;
 
     const progressFill = document.getElementById("progress-fill");
     const progressText = document.getElementById("progress-text");
+    const showReasonBtn = document.getElementById("show-reason-btn");
 
     if (progressFill) {
       progressFill.style.width = percentage + "%";
     }
 
     if (progressText) {
-      progressText.textContent = `${stats.cardsViewed} / ${stats.totalCards} discovered`;
+      progressText.textContent = `${stats.cardsViewed} / ${stats.totalCards} otkiveno`;
+    }
+
+    // Update button text and show success message if all viewed
+    if (showReasonBtn) {
+      if (allViewed) {
+        showReasonBtn.innerHTML = "🔄 Resetiraj napredak";
+        showReasonBtn.classList.add("reset-mode");
+        this.showSuccessMessage();
+      } else {
+        showReasonBtn.innerHTML = "💝 Prikaži razlog";
+        showReasonBtn.classList.remove("reset-mode");
+      }
+    }
+  },
+
+  // Show success message when all reasons are viewed
+  showSuccessMessage() {
+    const cardNumber = document.getElementById("card-number");
+    const cardCategory = document.getElementById("card-category");
+    const cardEmoji = document.getElementById("card-emoji");
+    const cardReason = document.getElementById("card-reason");
+    const card = document.getElementById("single-reason-card");
+
+    // Add reveal animation
+    if (card) {
+      card.classList.remove("revealed");
+      void card.offsetWidth;
+      card.classList.add("revealed");
+    }
+
+    setTimeout(() => {
+      if (cardNumber) cardNumber.textContent = "🎉";
+      if (cardCategory) cardCategory.textContent = "Čestitam!";
+      if (cardEmoji) cardEmoji.textContent = "💖";
+      if (cardReason) {
+        cardReason.textContent =
+          "Otkrila si svih 365 razloga zašto te volim! Svaki dan u godini pun je ljubavi prema tebi. ❤️";
+        cardReason.style.fontSize = "1.3rem";
+        cardReason.style.opacity = "1";
+      }
+    }, 200);
+
+    // Create celebration effect
+    this.createSparkles();
+  },
+
+  // Reset progress
+  resetProgress() {
+    if (
+      confirm(
+        "Jesi li sigurna da želiš resetirati napredak? Svi otkriveni razlozi će se vratiti na početak.",
+      )
+    ) {
+      StorageManager.resetCards();
+      this.updateProgress();
+      this.showInitialMessage();
+
+      // Show notification
+      const toast = document.createElement("div");
+      toast.className = "reset-toast";
+      toast.textContent =
+        "✨ Napredak resetiran! Započni ponovno otkrivanje razloga.";
+      toast.style.cssText = `
+        position: fixed;
+        bottom: 30px;
+        left: 50%;
+        transform: translateX(-50%);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 1rem 2rem;
+        border-radius: 50px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        z-index: 10000;
+        animation: slideUp 0.5s ease;
+      `;
+      document.body.appendChild(toast);
+      setTimeout(() => toast.remove(), 3000);
     }
   },
 
@@ -238,8 +327,8 @@ const CardsManager = {
     if (viewedCardIds.length === 0) {
       grid.innerHTML = `
         <div class="no-reasons-message">
-          <p>You haven't discovered any reasons yet! 💝</p>
-          <p>Click "Show Me a Reason" to start your journey.</p>
+          <p>Još nisi otkrila nijedan razlog! 💝</p>
+          <p>Klikni "Pokaži mi razlog" da započneš.</p>
         </div>
       `;
     } else {
@@ -256,7 +345,7 @@ const CardsManager = {
         .map(
           (reason) => `
         <div class="discovered-reason-card">
-          <div class="card-number">Reason #${reason.id}</div>
+          <div class="card-number">Razlog #${reason.id}</div>
           <div class="card-emoji">${reason.emoji}</div>
           <p class="card-reason">${reason.reason}</p>
         </div>

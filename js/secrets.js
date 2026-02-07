@@ -20,8 +20,6 @@ const SecretsManager = {
   konamiProgress: 0,
   keyBuffer: "",
   keyTimeout: null,
-  footerHoverTimer: null,
-  footerHoverDuration: 0,
 
   // Initialize secrets system
   async init() {
@@ -55,11 +53,26 @@ const SecretsManager = {
       waxSeal.addEventListener("click", () => this.revealSecret("secret3"));
     }
 
-    // Footer hover listener
+    // Footer click listener (mobile-friendly)
     const footer = document.getElementById("footer");
     if (footer) {
-      footer.addEventListener("mouseenter", () => this.startFooterTimer());
-      footer.addEventListener("mouseleave", () => this.stopFooterTimer());
+      let footerClickCount = 0;
+      let footerClickTimer = null;
+
+      footer.addEventListener("click", () => {
+        footerClickCount++;
+        footer.style.cursor = "pointer";
+
+        clearTimeout(footerClickTimer);
+        footerClickTimer = setTimeout(() => {
+          footerClickCount = 0;
+        }, 2000);
+
+        if (footerClickCount === 3) {
+          this.revealSecret("secret11");
+          footerClickCount = 0;
+        }
+      });
     }
 
     // Hidden heart click listener
@@ -114,27 +127,6 @@ const SecretsManager = {
     this.keyTimeout = setTimeout(() => {
       this.keyBuffer = "";
     }, 2000);
-  },
-
-  // Start footer hover timer
-  startFooterTimer() {
-    this.footerHoverDuration = 0;
-    this.footerHoverTimer = setInterval(() => {
-      this.footerHoverDuration++;
-      if (this.footerHoverDuration >= 5) {
-        this.revealSecret("secret11");
-        this.stopFooterTimer();
-      }
-    }, 1000);
-  },
-
-  // Stop footer hover timer
-  stopFooterTimer() {
-    if (this.footerHoverTimer) {
-      clearInterval(this.footerHoverTimer);
-      this.footerHoverTimer = null;
-      this.footerHoverDuration = 0;
-    }
   },
 
   // Setup rapid click listener for "For Lucija"

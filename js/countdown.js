@@ -121,8 +121,8 @@ const CountdownTimer = {
     const message = document.createElement("div");
     message.className = "anniversary-message";
     message.innerHTML = `
-            <h2>🎉 Happy Anniversary, Lucija! 🎉</h2>
-            <p>Another year of love, laughter, and beautiful memories together!</p>
+            <h2>🎉 Sretan godišnjica, Lucija! 🎉</h2>
+            <p>Još jedna godina ljubavi, smijeha i prekrasnih zajedničkih uspomena!</p>
         `;
     message.style.cssText = `
             position: fixed;

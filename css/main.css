@@ -535,6 +535,17 @@ body:hover #custom-cursor {
   transform: translateY(-1px) scale(1.02);
 }
 
+/* Reset Mode Button */
+.show-reason-btn.reset-mode {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.show-reason-btn.reset-mode:hover {
+  background: linear-gradient(135deg, #5568d3 0%, #6a4190 100%);
+  box-shadow: 0 6px 25px rgba(102, 126, 234, 0.5);
+}
+
 /* View Collection Button */
 .view-collection-btn {
   background: linear-gradient(135deg, #b19cd9 0%, #d8b5ff 100%);
