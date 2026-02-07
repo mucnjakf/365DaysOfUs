@@ -263,44 +263,6 @@ const App = {
     this.checkMonthlyMilestone();
   },
 
-  // Add evening-specific effects
-  addEveningSurprise() {
-    // Subtle moon in corner
-    if (!document.getElementById("moon-icon")) {
-      const moon = document.createElement("div");
-      moon.id = "moon-icon";
-      moon.textContent = "🌙";
-      moon.style.cssText = `
-                position: fixed;
-                top: 20px;
-                left: 20px;
-                font-size: 2rem;
-                cursor: pointer;
-                z-index: 999;
-                opacity: 0.6;
-                transition: all 0.3s ease;
-            `;
-
-      moon.addEventListener("mouseenter", () => {
-        moon.style.opacity = "1";
-        moon.style.transform = "scale(1.2)";
-      });
-
-      moon.addEventListener("mouseleave", () => {
-        moon.style.opacity = "0.6";
-        moon.style.transform = "scale(1)";
-      });
-
-      moon.addEventListener("click", () => {
-        if (typeof SecretsManager !== "undefined") {
-          SecretsManager.revealSecret("secret10");
-        }
-      });
-
-      document.body.appendChild(moon);
-    }
-  },
-
   // Check monthly milestones
   checkMonthlyMilestone() {
     const now = new Date();
