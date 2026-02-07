@@ -1,0 +1,15 @@
+/* Additional fixes for responsiveness */
+
+/* Override letter section spacing on tablet */
+@media (max-width: 1024px) {
+  .letter-section {
+    padding: var(--spacing-sm) !important;
+  }
+}
+
+/* Override letter section spacing on mobile */
+@media (max-width: 768px) {
+  .letter-section {
+    padding: var(--spacing-xs) !important;
+  }
+}

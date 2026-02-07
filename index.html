@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="A special anniversary gift for Lucija 💕"
+    />
+    <title>For Lucija 💕</title>
+
+    <!-- Favicon -->
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💕</text></svg>"
+    />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Poppins:wght@300;400;500;600&family=Dancing+Script:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/animations.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
+    <link rel="stylesheet" href="css/skip-button.css" />
+    <link rel="stylesheet" href="css/secrets-fix.css" />
+
+    <!-- GSAP Animation Library -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js"
+      defer
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/gsap@3/dist/ScrollTrigger.min.js"
+      defer
+    ></script>
+
+    <!-- tsParticles Library -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/tsparticles@2/tsparticles.bundle.min.js"
+      defer
+    ></script>
+  </head>
+  <body>
+    <!-- Custom Cursor -->
+    <div id="custom-cursor"></div>
+    <div id="cursor-trail"></div>
+
+    <!-- Loading Screen -->
+    <div id="loading-screen">
+      <div class="loading-heart">💕</div>
+      <p class="loading-text">Preparing something special for Lucija...</p>
+    </div>
+
+    <!-- Section 1: Hero / Countdown -->
+    <section id="hero" class="hero-section">
+      <div id="particles-hero"></div>
+      <div class="hero-content">
+        <h1 class="hero-title">Our Love Story</h1>
+        <p class="hero-subtitle">We've been together for...</p>
+
+        <div id="countdown" class="countdown-container">
+          <div class="countdown-unit">
+            <div class="flip-card">
+              <span id="days" class="number">0</span>
+            </div>
+            <span class="label">Days</span>
+          </div>
+          <div class="countdown-unit">
+            <div class="flip-card">
+              <span id="hours" class="number">0</span>
+            </div>
+            <span class="label">Hours</span>
+          </div>
+          <div class="countdown-unit">
+            <div class="flip-card">
+              <span id="minutes" class="number">0</span>
+            </div>
+            <span class="label">Minutes</span>
+          </div>
+          <div class="countdown-unit">
+            <div class="flip-card">
+              <span id="seconds" class="number">0</span>
+            </div>
+            <span class="label">Seconds</span>
+          </div>
+        </div>
+
+        <p class="anniversary-date">Since February 8, 2025</p>
+
+        <a href="#reasons" class="cta-button"> Explore Our Story ↓ </a>
+      </div>
+
+      <div class="scroll-indicator">
+        <div class="mouse"></div>
+      </div>
+    </section>
+
+    <!-- Section 2: 365 Reasons -->
+    <section id="reasons" class="reasons-section">
+      <div class="section-header">
+        <h2 class="section-title">365 Reasons I Love You</h2>
+        <p class="section-subtitle">One for every day of the year 💝</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress-fill" id="progress-fill"></div>
+        <span class="progress-text" id="progress-text">0 / 365 discovered</span>
+      </div>
+
+      <div class="single-card-container">
+        <div id="single-reason-card" class="single-reason-card">
+          <div class="single-card-content">
+            <div class="card-number" id="card-number">Day 1</div>
+            <div class="card-category" id="card-category">💕 Your Smile</div>
+            <div class="card-emoji" id="card-emoji">💕</div>
+            <p class="card-reason" id="card-reason">
+              Click the button below to discover a reason...
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="reason-controls">
+        <button id="show-reason-btn" class="show-reason-btn">
+          💝 Show Me a Reason
+        </button>
+        <button id="view-collection-btn" class="view-collection-btn">
+          📖 View Discovered Reasons
+        </button>
+      </div>
+
+      <!-- Discovered Reasons Modal -->
+      <div id="reasons-modal" class="reasons-modal">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3>My Discovered Reasons ❤️</h3>
+            <button id="close-modal-btn" class="close-modal-btn">✕</button>
+          </div>
+          <div class="modal-body" id="modal-reasons-grid">
+            <!-- Discovered reasons will be populated here -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 3: Hidden Secrets Hint -->
+    <section id="secrets" class="secrets-section">
+      <div class="secrets-content">
+        <h2 class="section-title">Hidden Treasures 🔍</h2>
+        <p class="secrets-hint">
+          There are <span class="secret-count">15 secret messages</span> hidden
+          throughout this app, waiting for you to discover them...
+        </p>
+        <div class="secrets-counter">
+          <span id="secrets-found">0</span> / 15 Found
+        </div>
+        <div id="secrets-list" class="discovered-secrets">
+          <!-- Discovered secrets will appear here -->
+        </div>
+        <div class="hidden-heart" id="hidden-heart">💖</div>
+      </div>
+    </section>
+
+    <!-- Section 4: Love Letter -->
+    <section id="letter" class="letter-section">
+      <div class="letter-container">
+        <div id="envelope" class="envelope">
+          <div class="envelope-flap"></div>
+          <div class="wax-seal">
+            <div class="stamp">❤️</div>
+            Open me
+          </div>
+        </div>
+
+        <div id="letter-paper" class="letter-paper">
+          <div class="letter-content">
+            <h2 class="letter-title">
+              To My Dearest
+              <span class="highlight-name" id="lucija-name">Lucija</span>,
+            </h2>
+
+            <div id="letter-text" class="letter-body">
+              <p>
+                As I sit here writing this, my heart is overflowing with love
+                for you. It's hard to put into words just how much you mean to
+                me, but I want to try.
+              </p>
+
+              <p>
+                From the moment we met, I knew there was something special about
+                you. Your smile lit up the room, and your laughter became my
+                favorite sound. Every day since February 8, 2025, has been a
+                gift, and I thank the universe for bringing you into my life.
+              </p>
+
+              <p>
+                You've changed me in the most beautiful ways. You've taught me
+                what it means to love unconditionally, to be patient, to find
+                joy in the little moments. You've shown me that home isn't a
+                place – it's a person. And you are my home.
+              </p>
+
+              <p>
+                I love the way you scrunch your nose when you're thinking, the
+                way you dance when you think no one is watching, the way you
+                always know exactly what to say when I need it most. I love your
+                kindness, your strength, your beautiful soul that radiates
+                warmth to everyone around you.
+              </p>
+
+              <p>
+                Every inside joke, every shared glance, every moment of
+                comfortable silence – they've all woven together to create this
+                beautiful tapestry of our love story. And the best part? We're
+                still writing it, one day at a time.
+              </p>
+
+              <p>
+                I promise to always make you laugh, even when you don't want to
+                smile. I promise to support your dreams as if they were my own.
+                I promise to love you fiercely on your darkest days and
+                celebrate with you on your brightest. I promise to never stop
+                trying to make you feel as special as you make me feel every
+                single day.
+              </p>
+
+              <p>
+                You are my yesterday, my today, and all of my tomorrows. You're
+                my best friend, my partner in crime, my confidant, and the love
+                of my life. I can't wait to see what the future holds for us –
+                all the adventures, the quiet moments, the laughter, and even
+                the challenges we'll face together.
+              </p>
+
+              <p>
+                Thank you for choosing me. Thank you for loving me. Thank you
+                for being exactly who you are.
+              </p>
+
+              <p class="letter-closing">Forever yours,</p>
+              <p class="letter-signature">With all my love ❤️</p>
+            </div>
+            <button
+              id="skip-typing-btn"
+              class="skip-typing-btn"
+              style="display: none"
+            >
+              Skip Typing
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="footer">
+      <p class="footer-text">Made with 💕 for Lucija</p>
+      <p class="footer-date">February 8, 2025 - Forever</p>
+    </footer>
+
+    <!-- Secret Achievement Toast -->
+    <div id="secret-toast" class="secret-toast">
+      <span class="toast-icon">🎉</span>
+      <span class="toast-message"></span>
+    </div>
+
+    <!-- JavaScript Files -->
+    <script src="js/storage.js"></script>
+    <script src="js/countdown.js"></script>
+    <script src="js/particles-config.js"></script>
+    <script src="js/cards.js"></script>
+    <script src="js/letter.js"></script>
+    <script src="js/secrets.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

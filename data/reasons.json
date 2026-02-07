@@ -1,0 +1,2192 @@
+[
+  {
+    "id": 1,
+    "category": "Your Smile",
+    "reason": "The way your eyes sparkle when you laugh at my silly jokes",
+    "emoji": "💕"
+  },
+  {
+    "id": 2,
+    "category": "Little Things",
+    "reason": "How you always remember my coffee order perfectly",
+    "emoji": "☕"
+  },
+  {
+    "id": 3,
+    "category": "Your Beautiful Soul",
+    "reason": "Your kindness to everyone you meet, even strangers",
+    "emoji": "🌟"
+  },
+  {
+    "id": 4,
+    "category": "How You Make Me Feel",
+    "reason": "Safe, loved, and like I can be completely myself",
+    "emoji": "💫"
+  },
+  {
+    "id": 5,
+    "category": "Little Things",
+    "reason": "The cute sound you make when you're concentrating",
+    "emoji": "🎀"
+  },
+  {
+    "id": 6,
+    "category": "Your Smile",
+    "reason": "How your whole face lights up when you see me",
+    "emoji": "😊"
+  },
+  {
+    "id": 7,
+    "category": "Dreams & Future",
+    "reason": "How excited you get talking about our future together",
+    "emoji": "🌈"
+  },
+  {
+    "id": 8,
+    "category": "Little Things",
+    "reason": "The way you scrunch your nose when you disagree",
+    "emoji": "👃"
+  },
+  {
+    "id": 9,
+    "category": "Your Beautiful Soul",
+    "reason": "Your patience with me when I'm being difficult",
+    "emoji": "🌸"
+  },
+  {
+    "id": 10,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm the luckiest person in the world every single day",
+    "emoji": "🍀"
+  },
+  {
+    "id": 11,
+    "category": "Inside Jokes",
+    "reason": "That time you tried to cook and set off the fire alarm",
+    "emoji": "🔥"
+  },
+  {
+    "id": 12,
+    "category": "Your Smile",
+    "reason": "The way you bite your lip when you're trying not to smile",
+    "emoji": "😏"
+  },
+  {
+    "id": 13,
+    "category": "Little Things",
+    "reason": "How you always share your dessert with me, even your favorite",
+    "emoji": "🍰"
+  },
+  {
+    "id": 14,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you care for animals and plants like they're family",
+    "emoji": "🌱"
+  },
+  {
+    "id": 15,
+    "category": "Dreams & Future",
+    "reason": "Planning imaginary vacations together at 2am",
+    "emoji": "✈️"
+  },
+  {
+    "id": 16,
+    "category": "How You Make Me Feel",
+    "reason": "Calm in the middle of any storm",
+    "emoji": "🌊"
+  },
+  {
+    "id": 17,
+    "category": "Little Things",
+    "reason": "Your terrible singing in the shower that I secretly love",
+    "emoji": "🎤"
+  },
+  {
+    "id": 18,
+    "category": "Your Smile",
+    "reason": "That shy smile when I compliment you",
+    "emoji": "😌"
+  },
+  {
+    "id": 19,
+    "category": "Inside Jokes",
+    "reason": "Our secret language that nobody else understands",
+    "emoji": "🤫"
+  },
+  {
+    "id": 20,
+    "category": "Your Beautiful Soul",
+    "reason": "How you forgive so easily and never hold grudges",
+    "emoji": "💝"
+  },
+  {
+    "id": 21,
+    "category": "Little Things",
+    "reason": "The way you steal my hoodies and they look better on you",
+    "emoji": "👕"
+  },
+  {
+    "id": 22,
+    "category": "How You Make Me Feel",
+    "reason": "Like every day is an adventure waiting to happen",
+    "emoji": "🎢"
+  },
+  {
+    "id": 23,
+    "category": "Dreams & Future",
+    "reason": "The way you talk about the kids we'll have someday",
+    "emoji": "👶"
+  },
+  {
+    "id": 24,
+    "category": "Your Smile",
+    "reason": "Your morning smile before you've even opened your eyes",
+    "emoji": "🌅"
+  },
+  {
+    "id": 25,
+    "category": "Little Things",
+    "reason": "How you dance in the kitchen while making breakfast",
+    "emoji": "💃"
+  },
+  {
+    "id": 26,
+    "category": "Your Beautiful Soul",
+    "reason": "Your strength in facing challenges with grace",
+    "emoji": "💪"
+  },
+  {
+    "id": 27,
+    "category": "Inside Jokes",
+    "reason": "The nickname incident that still makes us laugh",
+    "emoji": "😂"
+  },
+  {
+    "id": 28,
+    "category": "How You Make Me Feel",
+    "reason": "Understood without having to say a word",
+    "emoji": "💭"
+  },
+  {
+    "id": 29,
+    "category": "Little Things",
+    "reason": "The way you hold my hand when you're nervous",
+    "emoji": "🤝"
+  },
+  {
+    "id": 30,
+    "category": "Your Smile",
+    "reason": "How you can't hide your smile when you're trying to be serious",
+    "emoji": "😄"
+  },
+  {
+    "id": 31,
+    "category": "Dreams & Future",
+    "reason": "Planning our dream home with ridiculous room ideas",
+    "emoji": "🏡"
+  },
+  {
+    "id": 32,
+    "category": "Your Beautiful Soul",
+    "reason": "How you always see the best in people",
+    "emoji": "👁️"
+  },
+  {
+    "id": 33,
+    "category": "Little Things",
+    "reason": "Your obsession with organizing things by color",
+    "emoji": "🌈"
+  },
+  {
+    "id": 34,
+    "category": "How You Make Me Feel",
+    "reason": "Like I've finally found my home",
+    "emoji": "🏠"
+  },
+  {
+    "id": 35,
+    "category": "Inside Jokes",
+    "reason": "That embarrassing karaoke moment we'll never forget",
+    "emoji": "🎵"
+  },
+  {
+    "id": 36,
+    "category": "Your Smile",
+    "reason": "The mischievous grin you get before pranking me",
+    "emoji": "😈"
+  },
+  {
+    "id": 37,
+    "category": "Little Things",
+    "reason": "How you leave little notes for me to find",
+    "emoji": "📝"
+  },
+  {
+    "id": 38,
+    "category": "Your Beautiful Soul",
+    "reason": "Your unwavering loyalty to the people you love",
+    "emoji": "🛡️"
+  },
+  {
+    "id": 39,
+    "category": "Dreams & Future",
+    "reason": "Looking at old couple photos and saying 'that'll be us'",
+    "emoji": "👵"
+  },
+  {
+    "id": 40,
+    "category": "How You Make Me Feel",
+    "reason": "Like I can conquer anything with you by my side",
+    "emoji": "🦸"
+  },
+  {
+    "id": 41,
+    "category": "Little Things",
+    "reason": "The way you curl up against me while watching movies",
+    "emoji": "🎬"
+  },
+  {
+    "id": 42,
+    "category": "Your Smile",
+    "reason": "How you smile in your sleep sometimes",
+    "emoji": "😴"
+  },
+  {
+    "id": 43,
+    "category": "Inside Jokes",
+    "reason": "The 'are you thinking what I'm thinking' moments",
+    "emoji": "🧠"
+  },
+  {
+    "id": 44,
+    "category": "Your Beautiful Soul",
+    "reason": "How you cry at happy endings and try to hide it",
+    "emoji": "😭"
+  },
+  {
+    "id": 45,
+    "category": "Little Things",
+    "reason": "Your collection of random facts you share at odd times",
+    "emoji": "📚"
+  },
+  {
+    "id": 46,
+    "category": "Dreams & Future",
+    "reason": "Talking about growing old together and still being silly",
+    "emoji": "🧓"
+  },
+  {
+    "id": 47,
+    "category": "How You Make Me Feel",
+    "reason": "Grateful for every single moment we share",
+    "emoji": "🙏"
+  },
+  {
+    "id": 48,
+    "category": "Your Smile",
+    "reason": "That genuine smile when you're truly happy",
+    "emoji": "😁"
+  },
+  {
+    "id": 49,
+    "category": "Little Things",
+    "reason": "How you always know when something's bothering me",
+    "emoji": "🔍"
+  },
+  {
+    "id": 50,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you pursue your passions with dedication",
+    "emoji": "🎯"
+  },
+  {
+    "id": 51,
+    "category": "Inside Jokes",
+    "reason": "Our made-up song that's completely ridiculous",
+    "emoji": "🎶"
+  },
+  {
+    "id": 52,
+    "category": "How You Make Me Feel",
+    "reason": "Inspired to be a better person every day",
+    "emoji": "✨"
+  },
+  {
+    "id": 53,
+    "category": "Little Things",
+    "reason": "Your weird food combinations that somehow work",
+    "emoji": "🍕"
+  },
+  {
+    "id": 54,
+    "category": "Dreams & Future",
+    "reason": "Planning all the places we'll travel together",
+    "emoji": "🗺️"
+  },
+  {
+    "id": 55,
+    "category": "Your Smile",
+    "reason": "The way you smile when you catch me staring at you",
+    "emoji": "😍"
+  },
+  {
+    "id": 56,
+    "category": "Your Beautiful Soul",
+    "reason": "How you stand up for what's right, even when it's hard",
+    "emoji": "⚖️"
+  },
+  {
+    "id": 57,
+    "category": "Little Things",
+    "reason": "The way you talk to yourself when you think nobody's listening",
+    "emoji": "🗣️"
+  },
+  {
+    "id": 58,
+    "category": "Inside Jokes",
+    "reason": "That time we got completely lost and laughed the whole way",
+    "emoji": "🧭"
+  },
+  {
+    "id": 59,
+    "category": "How You Make Me Feel",
+    "reason": "Like every love song was written about us",
+    "emoji": "🎼"
+  },
+  {
+    "id": 60,
+    "category": "Your Smile",
+    "reason": "How you try not to smile at my bad puns but can't help it",
+    "emoji": "🙃"
+  },
+  {
+    "id": 61,
+    "category": "Little Things",
+    "reason": "Your habit of tucking your hair behind your ear",
+    "emoji": "💁"
+  },
+  {
+    "id": 62,
+    "category": "Dreams & Future",
+    "reason": "Imagining all our future anniversaries together",
+    "emoji": "💒"
+  },
+  {
+    "id": 63,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you make everyone feel included and valued",
+    "emoji": "🤗"
+  },
+  {
+    "id": 64,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm exactly where I'm supposed to be",
+    "emoji": "🧭"
+  },
+  {
+    "id": 65,
+    "category": "Inside Jokes",
+    "reason": "The weird face you make that only I get to see",
+    "emoji": "🤪"
+  },
+  {
+    "id": 66,
+    "category": "Little Things",
+    "reason": "How you always check on me throughout the day",
+    "emoji": "📱"
+  },
+  {
+    "id": 67,
+    "category": "Your Smile",
+    "reason": "That proud smile when I accomplish something",
+    "emoji": "🏆"
+  },
+  {
+    "id": 68,
+    "category": "Your Beautiful Soul",
+    "reason": "Your ability to find joy in the simplest things",
+    "emoji": "🎈"
+  },
+  {
+    "id": 69,
+    "category": "Dreams & Future",
+    "reason": "Planning our garden full of flowers and vegetables",
+    "emoji": "🌻"
+  },
+  {
+    "id": 70,
+    "category": "How You Make Me Feel",
+    "reason": "Like time stops when we're together",
+    "emoji": "⏰"
+  },
+  {
+    "id": 71,
+    "category": "Little Things",
+    "reason": "The way you get excited about your favorite shows",
+    "emoji": "📺"
+  },
+  {
+    "id": 72,
+    "category": "Inside Jokes",
+    "reason": "Our secret handshake that's way too complicated",
+    "emoji": "🤜"
+  },
+  {
+    "id": 73,
+    "category": "Your Smile",
+    "reason": "How you smile while telling your favorite stories",
+    "emoji": "📖"
+  },
+  {
+    "id": 74,
+    "category": "Your Beautiful Soul",
+    "reason": "The compassion you show even when you're hurting",
+    "emoji": "💗"
+  },
+  {
+    "id": 75,
+    "category": "Little Things",
+    "reason": "Your adorable bedhead in the morning",
+    "emoji": "😴"
+  },
+  {
+    "id": 76,
+    "category": "How You Make Me Feel",
+    "reason": "Braver than I ever thought I could be",
+    "emoji": "🦁"
+  },
+  {
+    "id": 77,
+    "category": "Dreams & Future",
+    "reason": "Talking about starting our own traditions",
+    "emoji": "🎄"
+  },
+  {
+    "id": 78,
+    "category": "Inside Jokes",
+    "reason": "The disaster birthday cake we'll never live down",
+    "emoji": "🎂"
+  },
+  {
+    "id": 79,
+    "category": "Your Smile",
+    "reason": "That sleepy smile when you're too tired to talk",
+    "emoji": "😌"
+  },
+  {
+    "id": 80,
+    "category": "Your Beautiful Soul",
+    "reason": "How you celebrate other people's successes genuinely",
+    "emoji": "🎉"
+  },
+  {
+    "id": 81,
+    "category": "Little Things",
+    "reason": "The way you hum while doing chores",
+    "emoji": "🎵"
+  },
+  {
+    "id": 82,
+    "category": "How You Make Me Feel",
+    "reason": "Like every moment with you is precious",
+    "emoji": "💎"
+  },
+  {
+    "id": 83,
+    "category": "Dreams & Future",
+    "reason": "Planning lazy Sunday mornings forever",
+    "emoji": "🥞"
+  },
+  {
+    "id": 84,
+    "category": "Your Smile",
+    "reason": "How your eyes crinkle when you laugh really hard",
+    "emoji": "😆"
+  },
+  {
+    "id": 85,
+    "category": "Inside Jokes",
+    "reason": "The movie quote we use at the weirdest times",
+    "emoji": "🎥"
+  },
+  {
+    "id": 86,
+    "category": "Little Things",
+    "reason": "How you always save the best bite for last",
+    "emoji": "🍴"
+  },
+  {
+    "id": 87,
+    "category": "Your Beautiful Soul",
+    "reason": "Your incredible work ethic and determination",
+    "emoji": "💼"
+  },
+  {
+    "id": 88,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm part of something bigger than myself",
+    "emoji": "🌍"
+  },
+  {
+    "id": 89,
+    "category": "Little Things",
+    "reason": "The way you get cozy with all the blankets",
+    "emoji": "🛋️"
+  },
+  {
+    "id": 90,
+    "category": "Dreams & Future",
+    "reason": "Imagining teaching our kids all our silly games",
+    "emoji": "🎮"
+  },
+  {
+    "id": 91,
+    "category": "Your Smile",
+    "reason": "That satisfied smile after a good meal",
+    "emoji": "😋"
+  },
+  {
+    "id": 92,
+    "category": "Inside Jokes",
+    "reason": "The stupid fight we had that seems hilarious now",
+    "emoji": "🤦"
+  },
+  {
+    "id": 93,
+    "category": "Your Beautiful Soul",
+    "reason": "How you apologize when you're wrong without ego",
+    "emoji": "🙇"
+  },
+  {
+    "id": 94,
+    "category": "Little Things",
+    "reason": "Your collection of cute mugs you never use",
+    "emoji": "☕"
+  },
+  {
+    "id": 95,
+    "category": "How You Make Me Feel",
+    "reason": "Complete, like you're my missing piece",
+    "emoji": "🧩"
+  },
+  {
+    "id": 96,
+    "category": "Your Smile",
+    "reason": "The smile you try to hide when I'm being cheesy",
+    "emoji": "🧀"
+  },
+  {
+    "id": 97,
+    "category": "Dreams & Future",
+    "reason": "Planning to renew our vows in crazy places",
+    "emoji": "🏔️"
+  },
+  {
+    "id": 98,
+    "category": "Little Things",
+    "reason": "How you always double-check if I locked the door",
+    "emoji": "🔒"
+  },
+  {
+    "id": 99,
+    "category": "Inside Jokes",
+    "reason": "That time we both wore the same color by accident",
+    "emoji": "👔"
+  },
+  {
+    "id": 100,
+    "category": "Your Beautiful Soul",
+    "reason": "Your ability to bounce back from disappointments",
+    "emoji": "🎈"
+  },
+  {
+    "id": 101,
+    "category": "How You Make Me Feel",
+    "reason": "Like anything is possible when we're together",
+    "emoji": "🚀"
+  },
+  {
+    "id": 102,
+    "category": "Your Smile",
+    "reason": "How you smile at me from across a crowded room",
+    "emoji": "👀"
+  },
+  {
+    "id": 103,
+    "category": "Little Things",
+    "reason": "The way you arrange your pillows just right",
+    "emoji": "🛏️"
+  },
+  {
+    "id": 104,
+    "category": "Dreams & Future",
+    "reason": "Planning to be embarrassing parents together",
+    "emoji": "👨‍👩‍👧"
+  },
+  {
+    "id": 105,
+    "category": "Your Beautiful Soul",
+    "reason": "How you give without expecting anything in return",
+    "emoji": "🎁"
+  },
+  {
+    "id": 106,
+    "category": "Inside Jokes",
+    "reason": "Our fake accents that are terrible but hilarious",
+    "emoji": "🗣️"
+  },
+  {
+    "id": 107,
+    "category": "How You Make Me Feel",
+    "reason": "Loved unconditionally for exactly who I am",
+    "emoji": "💖"
+  },
+  {
+    "id": 108,
+    "category": "Little Things",
+    "reason": "Your weird stretches that somehow work",
+    "emoji": "🧘"
+  },
+  {
+    "id": 109,
+    "category": "Your Smile",
+    "reason": "That relieved smile after a stressful day",
+    "emoji": "😮‍💨"
+  },
+  {
+    "id": 110,
+    "category": "Dreams & Future",
+    "reason": "Talking about our retirement plans like they're tomorrow",
+    "emoji": "🏖️"
+  },
+  {
+    "id": 111,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you listen with your whole heart",
+    "emoji": "👂"
+  },
+  {
+    "id": 112,
+    "category": "Little Things",
+    "reason": "How you narrate what the pets are thinking",
+    "emoji": "🐕"
+  },
+  {
+    "id": 113,
+    "category": "Inside Jokes",
+    "reason": "The epic board game rivalry we have",
+    "emoji": "🎲"
+  },
+  {
+    "id": 114,
+    "category": "How You Make Me Feel",
+    "reason": "Like I found my person in this huge world",
+    "emoji": "🌎"
+  },
+  {
+    "id": 115,
+    "category": "Your Smile",
+    "reason": "The way you smile at old photos of us",
+    "emoji": "📷"
+  },
+  {
+    "id": 116,
+    "category": "Little Things",
+    "reason": "How you always smell amazing",
+    "emoji": "🌺"
+  },
+  {
+    "id": 117,
+    "category": "Dreams & Future",
+    "reason": "Planning matching outfits for when we're eighty",
+    "emoji": "👫"
+  },
+  {
+    "id": 118,
+    "category": "Your Beautiful Soul",
+    "reason": "Your honesty even when the truth is difficult",
+    "emoji": "💬"
+  },
+  {
+    "id": 119,
+    "category": "Inside Jokes",
+    "reason": "The dance moves we invented that nobody should see",
+    "emoji": "🕺"
+  },
+  {
+    "id": 120,
+    "category": "How You Make Me Feel",
+    "reason": "Excited about waking up tomorrow because you're there",
+    "emoji": "⏰"
+  },
+  {
+    "id": 121,
+    "category": "Your Smile",
+    "reason": "How you smile when you're winning at games",
+    "emoji": "🏅"
+  },
+  {
+    "id": 122,
+    "category": "Little Things",
+    "reason": "The way you take forever to pick a restaurant",
+    "emoji": "🤔"
+  },
+  {
+    "id": 123,
+    "category": "Your Beautiful Soul",
+    "reason": "How you turn little moments into special memories",
+    "emoji": "✨"
+  },
+  {
+    "id": 124,
+    "category": "Dreams & Future",
+    "reason": "Imagining us hosting crazy family holidays",
+    "emoji": "🦃"
+  },
+  {
+    "id": 125,
+    "category": "How You Make Me Feel",
+    "reason": "Like every day is better just because you're in it",
+    "emoji": "☀️"
+  },
+  {
+    "id": 126,
+    "category": "Inside Jokes",
+    "reason": "That embarrassing thing that happened at the restaurant",
+    "emoji": "🍽️"
+  },
+  {
+    "id": 127,
+    "category": "Little Things",
+    "reason": "Your evening skincare routine that's like a ceremony",
+    "emoji": "🧴"
+  },
+  {
+    "id": 128,
+    "category": "Your Smile",
+    "reason": "That guilty smile when you've eaten my snacks",
+    "emoji": "🍫"
+  },
+  {
+    "id": 129,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you make time for people who need you",
+    "emoji": "⏳"
+  },
+  {
+    "id": 130,
+    "category": "Dreams & Future",
+    "reason": "Planning our 'bucket list' adventures together",
+    "emoji": "📝"
+  },
+  {
+    "id": 131,
+    "category": "How You Make Me Feel",
+    "reason": "Like I can share anything without fear of judgment",
+    "emoji": "🗝️"
+  },
+  {
+    "id": 132,
+    "category": "Little Things",
+    "reason": "How you always find the best parking spots",
+    "emoji": "🚗"
+  },
+  {
+    "id": 133,
+    "category": "Inside Jokes",
+    "reason": "Our dramatic reenactments of mundane things",
+    "emoji": "🎭"
+  },
+  {
+    "id": 134,
+    "category": "Your Smile",
+    "reason": "The smile when you're proud of yourself",
+    "emoji": "😊"
+  },
+  {
+    "id": 135,
+    "category": "Your Beautiful Soul",
+    "reason": "How you turn your pain into empathy for others",
+    "emoji": "🤲"
+  },
+  {
+    "id": 136,
+    "category": "Little Things",
+    "reason": "The way you organize your apps by color",
+    "emoji": "📱"
+  },
+  {
+    "id": 137,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm the main character in my own love story",
+    "emoji": "📚"
+  },
+  {
+    "id": 138,
+    "category": "Dreams & Future",
+    "reason": "Planning to learn new things together when we're old",
+    "emoji": "🎓"
+  },
+  {
+    "id": 139,
+    "category": "Inside Jokes",
+    "reason": "The way we communicate with just eyebrow raises",
+    "emoji": "🤨"
+  },
+  {
+    "id": 140,
+    "category": "Your Smile",
+    "reason": "How you smile at babies when you think nobody's watching",
+    "emoji": "👶"
+  },
+  {
+    "id": 141,
+    "category": "Your Beautiful Soul",
+    "reason": "Your courage to be vulnerable and authentic",
+    "emoji": "🌟"
+  },
+  {
+    "id": 142,
+    "category": "Little Things",
+    "reason": "How you leave your shoes everywhere",
+    "emoji": "👟"
+  },
+  {
+    "id": 143,
+    "category": "How You Make Me Feel",
+    "reason": "Whole, happy, and exactly where I belong",
+    "emoji": "🏡"
+  },
+  {
+    "id": 144,
+    "category": "Dreams & Future",
+    "reason": "Talking about the library we'll have in our future home",
+    "emoji": "📚"
+  },
+  {
+    "id": 145,
+    "category": "Your Smile",
+    "reason": "That knowing smile when we share the same thought",
+    "emoji": "🔮"
+  },
+  {
+    "id": 146,
+    "category": "Inside Jokes",
+    "reason": "The word that became our code for 'I love you'",
+    "emoji": "🤐"
+  },
+  {
+    "id": 147,
+    "category": "Little Things",
+    "reason": "How you sigh contentedly when you're comfortable",
+    "emoji": "😌"
+  },
+  {
+    "id": 148,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you champion other people's dreams",
+    "emoji": "📣"
+  },
+  {
+    "id": 149,
+    "category": "How You Make Me Feel",
+    "reason": "Like magic exists and it's in your touch",
+    "emoji": "✨"
+  },
+  {
+    "id": 150,
+    "category": "Little Things",
+    "reason": "Your specific way of folding laundry",
+    "emoji": "👕"
+  },
+  {
+    "id": 151,
+    "category": "Dreams & Future",
+    "reason": "Planning to be the cool grandparents someday",
+    "emoji": "👴"
+  },
+  {
+    "id": 152,
+    "category": "Your Smile",
+    "reason": "How you smile when listening to your favorite music",
+    "emoji": "🎧"
+  },
+  {
+    "id": 153,
+    "category": "Inside Jokes",
+    "reason": "That time we couldn't stop laughing inappropriately",
+    "emoji": "🤭"
+  },
+  {
+    "id": 154,
+    "category": "Your Beautiful Soul",
+    "reason": "How you find beauty in things others overlook",
+    "emoji": "🌸"
+  },
+  {
+    "id": 155,
+    "category": "How You Make Me Feel",
+    "reason": "Cherished beyond measure",
+    "emoji": "💝"
+  },
+  {
+    "id": 156,
+    "category": "Little Things",
+    "reason": "The way you always lose your phone",
+    "emoji": "📱"
+  },
+  {
+    "id": 157,
+    "category": "Your Smile",
+    "reason": "That peaceful smile when you're reading",
+    "emoji": "📖"
+  },
+  {
+    "id": 158,
+    "category": "Dreams & Future",
+    "reason": "Imagining all the pets we'll rescue together",
+    "emoji": "🐾"
+  },
+  {
+    "id": 159,
+    "category": "Your Beautiful Soul",
+    "reason": "How you maintain your values even under pressure",
+    "emoji": "💎"
+  },
+  {
+    "id": 160,
+    "category": "Inside Jokes",
+    "reason": "The ridiculous debate we have that never ends",
+    "emoji": "⚔️"
+  },
+  {
+    "id": 161,
+    "category": "Little Things",
+    "reason": "How you make up songs about everything",
+    "emoji": "🎶"
+  },
+  {
+    "id": 162,
+    "category": "How You Make Me Feel",
+    "reason": "Like every moment is an opportunity for joy",
+    "emoji": "🎊"
+  },
+  {
+    "id": 163,
+    "category": "Your Smile",
+    "reason": "The way your smile reaches your eyes",
+    "emoji": "👁️"
+  },
+  {
+    "id": 164,
+    "category": "Dreams & Future",
+    "reason": "Planning to take dance lessons when we're sixty",
+    "emoji": "💃"
+  },
+  {
+    "id": 165,
+    "category": "Your Beautiful Soul",
+    "reason": "Your ability to admit mistakes and grow",
+    "emoji": "🌱"
+  },
+  {
+    "id": 166,
+    "category": "Little Things",
+    "reason": "How you wrap yourself in the shower curtain",
+    "emoji": "🚿"
+  },
+  {
+    "id": 167,
+    "category": "Inside Jokes",
+    "reason": "The story we tell differently every time",
+    "emoji": "📜"
+  },
+  {
+    "id": 168,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm exactly enough, never too much or too little",
+    "emoji": "⚖️"
+  },
+  {
+    "id": 169,
+    "category": "Your Smile",
+    "reason": "How you smile at compliments from kids",
+    "emoji": "👧"
+  },
+  {
+    "id": 170,
+    "category": "Little Things",
+    "reason": "The way you always need one more blanket",
+    "emoji": "🧊"
+  },
+  {
+    "id": 171,
+    "category": "Dreams & Future",
+    "reason": "Planning to write our love story someday",
+    "emoji": "✍️"
+  },
+  {
+    "id": 172,
+    "category": "Your Beautiful Soul",
+    "reason": "How you face your fears head-on",
+    "emoji": "🦸"
+  },
+  {
+    "id": 173,
+    "category": "Inside Jokes",
+    "reason": "The game we invented during that boring party",
+    "emoji": "🎪"
+  },
+  {
+    "id": 174,
+    "category": "How You Make Me Feel",
+    "reason": "Like I've known you forever and just met you at once",
+    "emoji": "♾️"
+  },
+  {
+    "id": 175,
+    "category": "Your Smile",
+    "reason": "That smile when you've had your morning coffee",
+    "emoji": "☕"
+  },
+  {
+    "id": 176,
+    "category": "Little Things",
+    "reason": "How you always check if I need anything",
+    "emoji": "❓"
+  },
+  {
+    "id": 177,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you celebrate the small wins",
+    "emoji": "🏆"
+  },
+  {
+    "id": 178,
+    "category": "Dreams & Future",
+    "reason": "Talking about opening a cozy café together",
+    "emoji": "☕"
+  },
+  {
+    "id": 179,
+    "category": "Inside Jokes",
+    "reason": "Our made-up holiday that only we celebrate",
+    "emoji": "🎈"
+  },
+  {
+    "id": 180,
+    "category": "How You Make Me Feel",
+    "reason": "Like every love cliché suddenly makes perfect sense",
+    "emoji": "💘"
+  },
+  {
+    "id": 181,
+    "category": "Little Things",
+    "reason": "The way you point at things with your whole hand",
+    "emoji": "👆"
+  },
+  {
+    "id": 182,
+    "category": "Your Smile",
+    "reason": "How you smile in old couple photos we see",
+    "emoji": "🖼️"
+  },
+  {
+    "id": 183,
+    "category": "Your Beautiful Soul",
+    "reason": "Your ability to find the silver lining always",
+    "emoji": "☁️"
+  },
+  {
+    "id": 184,
+    "category": "Dreams & Future",
+    "reason": "Planning the perfect proposal for renewing vows",
+    "emoji": "💍"
+  },
+  {
+    "id": 185,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm living in a dream I never want to wake from",
+    "emoji": "💤"
+  },
+  {
+    "id": 186,
+    "category": "Inside Jokes",
+    "reason": "The character voices we do that crack each other up",
+    "emoji": "🎭"
+  },
+  {
+    "id": 187,
+    "category": "Little Things",
+    "reason": "How you always have snacks in your bag",
+    "emoji": "🎒"
+  },
+  {
+    "id": 188,
+    "category": "Your Smile",
+    "reason": "That smile when you're about to surprise me",
+    "emoji": "🎁"
+  },
+  {
+    "id": 189,
+    "category": "Your Beautiful Soul",
+    "reason": "How you show up for people in their darkest moments",
+    "emoji": "🕯️"
+  },
+  {
+    "id": 190,
+    "category": "Little Things",
+    "reason": "The way you fidget with your jewelry",
+    "emoji": "💍"
+  },
+  {
+    "id": 191,
+    "category": "How You Make Me Feel",
+    "reason": "Understood in ways I can't even explain to myself",
+    "emoji": "🔮"
+  },
+  {
+    "id": 192,
+    "category": "Dreams & Future",
+    "reason": "Planning which countries we'll live in temporarily",
+    "emoji": "🌏"
+  },
+  {
+    "id": 193,
+    "category": "Inside Jokes",
+    "reason": "The pact we made that seems crazy to everyone else",
+    "emoji": "🤝"
+  },
+  {
+    "id": 194,
+    "category": "Your Smile",
+    "reason": "How you smile when you're falling asleep",
+    "emoji": "😴"
+  },
+  {
+    "id": 195,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you protect the people you love fiercely",
+    "emoji": "🛡️"
+  },
+  {
+    "id": 196,
+    "category": "Little Things",
+    "reason": "How you take photos of everything pretty you see",
+    "emoji": "📸"
+  },
+  {
+    "id": 197,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm part of the most exclusive club of two",
+    "emoji": "🎫"
+  },
+  {
+    "id": 198,
+    "category": "Dreams & Future",
+    "reason": "Imagining us still flirting at ninety",
+    "emoji": "👵"
+  },
+  {
+    "id": 199,
+    "category": "Your Smile",
+    "reason": "That smile when you accomplish something difficult",
+    "emoji": "🎯"
+  },
+  {
+    "id": 200,
+    "category": "Inside Jokes",
+    "reason": "The way we order for each other and get it wrong",
+    "emoji": "🍽️"
+  },
+  {
+    "id": 201,
+    "category": "Your Beautiful Soul",
+    "reason": "How you make room in your heart for everyone",
+    "emoji": "❤️"
+  },
+  {
+    "id": 202,
+    "category": "Little Things",
+    "reason": "The way you do a little celebration dance",
+    "emoji": "🎉"
+  },
+  {
+    "id": 203,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm worthy of this incredible love",
+    "emoji": "👑"
+  },
+  {
+    "id": 204,
+    "category": "Dreams & Future",
+    "reason": "Planning to learn a new language together",
+    "emoji": "🗣️"
+  },
+  {
+    "id": 205,
+    "category": "Your Smile",
+    "reason": "How you smile at animals doing silly things",
+    "emoji": "🐶"
+  },
+  {
+    "id": 206,
+    "category": "Little Things",
+    "reason": "The way you stretch like a cat when you wake up",
+    "emoji": "🐱"
+  },
+  {
+    "id": 207,
+    "category": "Inside Jokes",
+    "reason": "That weird thing we do when we're alone in elevators",
+    "emoji": "🛗"
+  },
+  {
+    "id": 208,
+    "category": "Your Beautiful Soul",
+    "reason": "Your wisdom in knowing when to speak and when to listen",
+    "emoji": "🦉"
+  },
+  {
+    "id": 209,
+    "category": "How You Make Me Feel",
+    "reason": "Like the universe conspired to bring us together",
+    "emoji": "🌌"
+  },
+  {
+    "id": 210,
+    "category": "Little Things",
+    "reason": "How you always remember important dates",
+    "emoji": "📅"
+  },
+  {
+    "id": 211,
+    "category": "Dreams & Future",
+    "reason": "Talking about all the anniversaries we'll celebrate",
+    "emoji": "🎊"
+  },
+  {
+    "id": 212,
+    "category": "Your Smile",
+    "reason": "That smile when you're being sarcastic",
+    "emoji": "😏"
+  },
+  {
+    "id": 213,
+    "category": "Your Beautiful Soul",
+    "reason": "How you learn from every experience",
+    "emoji": "📖"
+  },
+  {
+    "id": 214,
+    "category": "Inside Jokes",
+    "reason": "The absolutely terrible nickname you gave me",
+    "emoji": "🏷️"
+  },
+  {
+    "id": 215,
+    "category": "How You Make Me Feel",
+    "reason": "Motivated to be worthy of your love every day",
+    "emoji": "💪"
+  },
+  {
+    "id": 216,
+    "category": "Little Things",
+    "reason": "The way you get competitive about silly things",
+    "emoji": "🏁"
+  },
+  {
+    "id": 217,
+    "category": "Your Smile",
+    "reason": "How you smile when talking about your dreams",
+    "emoji": "💭"
+  },
+  {
+    "id": 218,
+    "category": "Dreams & Future",
+    "reason": "Planning to take up painting together",
+    "emoji": "🎨"
+  },
+  {
+    "id": 219,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you love with your whole being",
+    "emoji": "💖"
+  },
+  {
+    "id": 220,
+    "category": "Inside Jokes",
+    "reason": "The ridiculous photo we took that's still hilarious",
+    "emoji": "📸"
+  },
+  {
+    "id": 221,
+    "category": "Little Things",
+    "reason": "How you always need to touch the fabric of things",
+    "emoji": "👐"
+  },
+  {
+    "id": 222,
+    "category": "How You Make Me Feel",
+    "reason": "Like every song I hear reminds me of you",
+    "emoji": "🎵"
+  },
+  {
+    "id": 223,
+    "category": "Your Smile",
+    "reason": "That smile when you're being stubborn",
+    "emoji": "😤"
+  },
+  {
+    "id": 224,
+    "category": "Dreams & Future",
+    "reason": "Imagining our kids having your best qualities",
+    "emoji": "👨‍👩‍👧‍👦"
+  },
+  {
+    "id": 225,
+    "category": "Your Beautiful Soul",
+    "reason": "How you inspire others just by being yourself",
+    "emoji": "🌟"
+  },
+  {
+    "id": 226,
+    "category": "Little Things",
+    "reason": "The way you hog all the covers at night",
+    "emoji": "🛏️"
+  },
+  {
+    "id": 227,
+    "category": "Inside Jokes",
+    "reason": "The word we can't say without laughing anymore",
+    "emoji": "😆"
+  },
+  {
+    "id": 228,
+    "category": "How You Make Me Feel",
+    "reason": "Like I finally understand what home means",
+    "emoji": "🏠"
+  },
+  {
+    "id": 229,
+    "category": "Your Smile",
+    "reason": "How you smile when you win an argument",
+    "emoji": "🗣️"
+  },
+  {
+    "id": 230,
+    "category": "Little Things",
+    "reason": "The way you always find the coziest spots",
+    "emoji": "🛋️"
+  },
+  {
+    "id": 231,
+    "category": "Dreams & Future",
+    "reason": "Planning to write each other letters when we're old",
+    "emoji": "✉️"
+  },
+  {
+    "id": 232,
+    "category": "Your Beautiful Soul",
+    "reason": "Your gratitude for the little things in life",
+    "emoji": "🙏"
+  },
+  {
+    "id": 233,
+    "category": "Inside Jokes",
+    "reason": "The tradition we started by accident",
+    "emoji": "🎭"
+  },
+  {
+    "id": 234,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm experiencing life in full color for the first time",
+    "emoji": "🌈"
+  },
+  {
+    "id": 235,
+    "category": "Your Smile",
+    "reason": "That smile when you're plotting something fun",
+    "emoji": "🤗"
+  },
+  {
+    "id": 236,
+    "category": "Little Things",
+    "reason": "How you always adjust my collar or hair",
+    "emoji": "💇"
+  },
+  {
+    "id": 237,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you never give up on people",
+    "emoji": "🤝"
+  },
+  {
+    "id": 238,
+    "category": "Dreams & Future",
+    "reason": "Talking about mentoring young couples someday",
+    "emoji": "💑"
+  },
+  {
+    "id": 239,
+    "category": "Inside Jokes",
+    "reason": "Our private rating system for everything",
+    "emoji": "⭐"
+  },
+  {
+    "id": 240,
+    "category": "How You Make Me Feel",
+    "reason": "Peaceful, even in chaos",
+    "emoji": "🕊️"
+  },
+  {
+    "id": 241,
+    "category": "Little Things",
+    "reason": "The way you save the packaging of special things",
+    "emoji": "📦"
+  },
+  {
+    "id": 242,
+    "category": "Your Smile",
+    "reason": "How you smile at memories we share",
+    "emoji": "💭"
+  },
+  {
+    "id": 243,
+    "category": "Your Beautiful Soul",
+    "reason": "Your commitment to personal growth",
+    "emoji": "📈"
+  },
+  {
+    "id": 244,
+    "category": "Dreams & Future",
+    "reason": "Planning to get matching tattoos when we're brave enough",
+    "emoji": "🎨"
+  },
+  {
+    "id": 245,
+    "category": "How You Make Me Feel",
+    "reason": "Like I can take on the world",
+    "emoji": "🌍"
+  },
+  {
+    "id": 246,
+    "category": "Inside Jokes",
+    "reason": "The way we finish each other's ridiculous sentences",
+    "emoji": "💬"
+  },
+  {
+    "id": 247,
+    "category": "Little Things",
+    "reason": "How you always know what I need before I ask",
+    "emoji": "🔮"
+  },
+  {
+    "id": 248,
+    "category": "Your Smile",
+    "reason": "That smile when you first wake up and see me",
+    "emoji": "☀️"
+  },
+  {
+    "id": 249,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you handle disappointment with grace",
+    "emoji": "🌸"
+  },
+  {
+    "id": 250,
+    "category": "Dreams & Future",
+    "reason": "Imagining us celebrating our 50th anniversary",
+    "emoji": "🎉"
+  },
+  {
+    "id": 251,
+    "category": "Inside Jokes",
+    "reason": "The game we play in grocery stores",
+    "emoji": "🛒"
+  },
+  {
+    "id": 252,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm the best version of myself",
+    "emoji": "✨"
+  },
+  {
+    "id": 253,
+    "category": "Little Things",
+    "reason": "The way you wave at me from far away",
+    "emoji": "👋"
+  },
+  {
+    "id": 254,
+    "category": "Your Smile",
+    "reason": "How you smile when giving gifts",
+    "emoji": "🎁"
+  },
+  {
+    "id": 255,
+    "category": "Your Beautiful Soul",
+    "reason": "Your enthusiasm for learning new things",
+    "emoji": "📚"
+  },
+  {
+    "id": 256,
+    "category": "Dreams & Future",
+    "reason": "Planning to help each other achieve our wildest dreams",
+    "emoji": "🚀"
+  },
+  {
+    "id": 257,
+    "category": "How You Make Me Feel",
+    "reason": "Like fairy tales are real",
+    "emoji": "🧚"
+  },
+  {
+    "id": 258,
+    "category": "Little Things",
+    "reason": "The way you tap your feet to music unconsciously",
+    "emoji": "👟"
+  },
+  {
+    "id": 259,
+    "category": "Inside Jokes",
+    "reason": "The made-up sport we created",
+    "emoji": "⚽"
+  },
+  {
+    "id": 260,
+    "category": "Your Smile",
+    "reason": "That smile when you're genuinely surprised",
+    "emoji": "😲"
+  },
+  {
+    "id": 261,
+    "category": "Your Beautiful Soul",
+    "reason": "How you see potential in everything and everyone",
+    "emoji": "🌱"
+  },
+  {
+    "id": 262,
+    "category": "Little Things",
+    "reason": "The way you reorganize things 'your way'",
+    "emoji": "📐"
+  },
+  {
+    "id": 263,
+    "category": "Dreams & Future",
+    "reason": "Talking about the charities we'll support together",
+    "emoji": "🤲"
+  },
+  {
+    "id": 264,
+    "category": "How You Make Me Feel",
+    "reason": "Like no time has passed when we're apart and reunite",
+    "emoji": "⏳"
+  },
+  {
+    "id": 265,
+    "category": "Inside Jokes",
+    "reason": "That time we tried something new and failed spectacularly",
+    "emoji": "💥"
+  },
+  {
+    "id": 266,
+    "category": "Your Smile",
+    "reason": "How you smile at inside jokes in public",
+    "emoji": "🤫"
+  },
+  {
+    "id": 267,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you treat everyone with respect",
+    "emoji": "🤝"
+  },
+  {
+    "id": 268,
+    "category": "Little Things",
+    "reason": "How you always find the good channels right away",
+    "emoji": "📺"
+  },
+  {
+    "id": 269,
+    "category": "How You Make Me Feel",
+    "reason": "Adventurous and ready to try anything",
+    "emoji": "🧗"
+  },
+  {
+    "id": 270,
+    "category": "Dreams & Future",
+    "reason": "Planning what we'll name all our future pets",
+    "emoji": "🐕"
+  },
+  {
+    "id": 271,
+    "category": "Your Smile",
+    "reason": "That smile when you're being extra",
+    "emoji": "💅"
+  },
+  {
+    "id": 272,
+    "category": "Inside Jokes",
+    "reason": "The conspiracy theory we jokingly created",
+    "emoji": "👽"
+  },
+  {
+    "id": 273,
+    "category": "Your Beautiful Soul",
+    "reason": "How you make ordinary moments extraordinary",
+    "emoji": "✨"
+  },
+  {
+    "id": 274,
+    "category": "Little Things",
+    "reason": "The way you commentate on what you're doing",
+    "emoji": "🎙️"
+  },
+  {
+    "id": 275,
+    "category": "How You Make Me Feel",
+    "reason": "Like I hit the jackpot in life",
+    "emoji": "🎰"
+  },
+  {
+    "id": 276,
+    "category": "Dreams & Future",
+    "reason": "Imagining us as the fun aunt and uncle",
+    "emoji": "🎪"
+  },
+  {
+    "id": 277,
+    "category": "Your Smile",
+    "reason": "How you smile when you're up to mischief",
+    "emoji": "😈"
+  },
+  {
+    "id": 278,
+    "category": "Little Things",
+    "reason": "The way you collect random interesting objects",
+    "emoji": "🗿"
+  },
+  {
+    "id": 279,
+    "category": "Inside Jokes",
+    "reason": "The ridiculous thing we did on a dare",
+    "emoji": "🤪"
+  },
+  {
+    "id": 280,
+    "category": "Your Beautiful Soul",
+    "reason": "Your ability to make anyone feel special",
+    "emoji": "⭐"
+  },
+  {
+    "id": 281,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm capable of anything",
+    "emoji": "🦸"
+  },
+  {
+    "id": 282,
+    "category": "Dreams & Future",
+    "reason": "Planning to keep dating each other forever",
+    "emoji": "💏"
+  },
+  {
+    "id": 283,
+    "category": "Your Smile",
+    "reason": "That smile when you know you're right",
+    "emoji": "😌"
+  },
+  {
+    "id": 284,
+    "category": "Little Things",
+    "reason": "How you always check the weather obsessively",
+    "emoji": "🌤️"
+  },
+  {
+    "id": 285,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you never judge people's choices",
+    "emoji": "⚖️"
+  },
+  {
+    "id": 286,
+    "category": "Inside Jokes",
+    "reason": "The fortune cookie prediction we reference constantly",
+    "emoji": "🥠"
+  },
+  {
+    "id": 287,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm starring in my own romance movie",
+    "emoji": "🎬"
+  },
+  {
+    "id": 288,
+    "category": "Little Things",
+    "reason": "The way you always find lost items somehow",
+    "emoji": "🔍"
+  },
+  {
+    "id": 289,
+    "category": "Dreams & Future",
+    "reason": "Talking about being neighbors with our best friends",
+    "emoji": "🏘️"
+  },
+  {
+    "id": 290,
+    "category": "Your Smile",
+    "reason": "How you smile when you're embarrassed",
+    "emoji": "😳"
+  },
+  {
+    "id": 291,
+    "category": "Your Beautiful Soul",
+    "reason": "Your ability to adapt to any situation",
+    "emoji": "🦎"
+  },
+  {
+    "id": 292,
+    "category": "Inside Jokes",
+    "reason": "That phase we went through that was weird but fun",
+    "emoji": "🎨"
+  },
+  {
+    "id": 293,
+    "category": "How You Make Me Feel",
+    "reason": "Like no one else exists when we're together",
+    "emoji": "🌟"
+  },
+  {
+    "id": 294,
+    "category": "Little Things",
+    "reason": "The way you make sound effects for everything",
+    "emoji": "🔊"
+  },
+  {
+    "id": 295,
+    "category": "Dreams & Future",
+    "reason": "Planning to stay young at heart forever",
+    "emoji": "🎈"
+  },
+  {
+    "id": 296,
+    "category": "Your Smile",
+    "reason": "That smile when you're lost in thought about us",
+    "emoji": "💭"
+  },
+  {
+    "id": 297,
+    "category": "Your Beautiful Soul",
+    "reason": "How you choose kindness even when it's hard",
+    "emoji": "💝"
+  },
+  {
+    "id": 298,
+    "category": "Little Things",
+    "reason": "The way you have a specific playlist for everything",
+    "emoji": "🎵"
+  },
+  {
+    "id": 299,
+    "category": "Inside Jokes",
+    "reason": "The TV show character that IS you",
+    "emoji": "📺"
+  },
+  {
+    "id": 300,
+    "category": "How You Make Me Feel",
+    "reason": "Like every day is Valentine's Day",
+    "emoji": "💝"
+  },
+  {
+    "id": 301,
+    "category": "Your Smile",
+    "reason": "How you smile when giving bad news gently",
+    "emoji": "😊"
+  },
+  {
+    "id": 302,
+    "category": "Dreams & Future",
+    "reason": "Imagining us living in a tiny house adventure",
+    "emoji": "🏡"
+  },
+  {
+    "id": 303,
+    "category": "Your Beautiful Soul",
+    "reason": "The way you find humor in difficult situations",
+    "emoji": "😄"
+  },
+  {
+    "id": 304,
+    "category": "Little Things",
+    "reason": "How you always have to touch everything soft",
+    "emoji": "🧸"
+  },
+  {
+    "id": 305,
+    "category": "Inside Jokes",
+    "reason": "The celebrity we both have a pass for",
+    "emoji": "🌟"
+  },
+  {
+    "id": 306,
+    "category": "How You Make Me Feel",
+    "reason": "Like I've won the lottery of love",
+    "emoji": "🎰"
+  },
+  {
+    "id": 307,
+    "category": "Your Smile",
+    "reason": "That smile when you're full of confidence",
+    "emoji": "😎"
+  },
+  {
+    "id": 308,
+    "category": "Little Things",
+    "reason": "The way you button/unbutton things absentmindedly",
+    "emoji": "👔"
+  },
+  {
+    "id": 309,
+    "category": "Dreams & Future",
+    "reason": "Planning to document our life in photo albums",
+    "emoji": "📸"
+  },
+  {
+    "id": 310,
+    "category": "Your Beautiful Soul",
+    "reason": "How you believe in second chances",
+    "emoji": "🌈"
+  },
+  {
+    "id": 311,
+    "category": "Inside Jokes",
+    "reason": "The thing we witnessed that nobody believes",
+    "emoji": "👀"
+  },
+  {
+    "id": 312,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm part of something magical",
+    "emoji": "🪄"
+  },
+  {
+    "id": 313,
+    "category": "Your Smile",
+    "reason": "How you smile when recommending something you love",
+    "emoji": "💕"
+  },
+  {
+    "id": 314,
+    "category": "Little Things",
+    "reason": "The way you always pick the perfect gifts",
+    "emoji": "🎁"
+  },
+  {
+    "id": 315,
+    "category": "Your Beautiful Soul",
+    "reason": "Your openness to new perspectives",
+    "emoji": "🌍"
+  },
+  {
+    "id": 316,
+    "category": "Dreams & Future",
+    "reason": "Talking about which skills we'll teach each other",
+    "emoji": "👨‍🏫"
+  },
+  {
+    "id": 317,
+    "category": "Inside Jokes",
+    "reason": "The absolutely perfect comedic timing we have",
+    "emoji": "⏰"
+  },
+  {
+    "id": 318,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm exactly where the universe intended",
+    "emoji": "🌌"
+  },
+  {
+    "id": 319,
+    "category": "Little Things",
+    "reason": "The way you greet me after we've been apart",
+    "emoji": "🤗"
+  },
+  {
+    "id": 320,
+    "category": "Your Smile",
+    "reason": "That smile when you realize I've done something sweet",
+    "emoji": "🥰"
+  },
+  {
+    "id": 321,
+    "category": "Your Beautiful Soul",
+    "reason": "How you balance strength and gentleness",
+    "emoji": "⚖️"
+  },
+  {
+    "id": 322,
+    "category": "Dreams & Future",
+    "reason": "Planning to make every anniversary more special",
+    "emoji": "💖"
+  },
+  {
+    "id": 323,
+    "category": "Inside Jokes",
+    "reason": "The bet we made that's still ongoing",
+    "emoji": "🎲"
+  },
+  {
+    "id": 324,
+    "category": "How You Make Me Feel",
+    "reason": "Like time is both too fast and perfectly slow",
+    "emoji": "⏱️"
+  },
+  {
+    "id": 325,
+    "category": "Little Things",
+    "reason": "The way you always double-check everything",
+    "emoji": "✅"
+  },
+  {
+    "id": 326,
+    "category": "Your Smile",
+    "reason": "How you smile when you're being playfully mean",
+    "emoji": "😈"
+  },
+  {
+    "id": 327,
+    "category": "Your Beautiful Soul",
+    "reason": "Your grace in handling awkward situations",
+    "emoji": "💃"
+  },
+  {
+    "id": 328,
+    "category": "Dreams & Future",
+    "reason": "Imagining us recommitting to each other every year",
+    "emoji": "💍"
+  },
+  {
+    "id": 329,
+    "category": "Inside Jokes",
+    "reason": "The place that's 'our place' for no real reason",
+    "emoji": "📍"
+  },
+  {
+    "id": 330,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm living proof that soulmates exist",
+    "emoji": "👫"
+  },
+  {
+    "id": 331,
+    "category": "Little Things",
+    "reason": "The way you arrange things symmetrically",
+    "emoji": "⚖️"
+  },
+  {
+    "id": 332,
+    "category": "Your Smile",
+    "reason": "That smile when you see something that reminds you of me",
+    "emoji": "💭"
+  },
+  {
+    "id": 333,
+    "category": "Your Beautiful Soul",
+    "reason": "How you own your quirks with confidence",
+    "emoji": "✨"
+  },
+  {
+    "id": 334,
+    "category": "Dreams & Future",
+    "reason": "Planning to grow old disgracefully together",
+    "emoji": "👴"
+  },
+  {
+    "id": 335,
+    "category": "Inside Jokes",
+    "reason": "The thing we always say in that specific voice",
+    "emoji": "🗣️"
+  },
+  {
+    "id": 336,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm in a constant state of grateful disbelief",
+    "emoji": "🙏"
+  },
+  {
+    "id": 337,
+    "category": "Little Things",
+    "reason": "The way you celebrate even tiny victories",
+    "emoji": "🎊"
+  },
+  {
+    "id": 338,
+    "category": "Your Smile",
+    "reason": "How you smile while pretending to be annoyed",
+    "emoji": "😤"
+  },
+  {
+    "id": 339,
+    "category": "Your Beautiful Soul",
+    "reason": "Your ability to see people for who they really are",
+    "emoji": "👁️"
+  },
+  {
+    "id": 340,
+    "category": "Dreams & Future",
+    "reason": "Talking about the legacy of love we'll leave",
+    "emoji": "💝"
+  },
+  {
+    "id": 341,
+    "category": "Inside Jokes",
+    "reason": "The story we've embellished so much it's mythology now",
+    "emoji": "📜"
+  },
+  {
+    "id": 342,
+    "category": "How You Make Me Feel",
+    "reason": "Like I've found my forever",
+    "emoji": "♾️"
+  },
+  {
+    "id": 343,
+    "category": "Little Things",
+    "reason": "The way you make everything into a game",
+    "emoji": "🎮"
+  },
+  {
+    "id": 344,
+    "category": "Your Smile",
+    "reason": "That smile that says 'I told you so' without words",
+    "emoji": "😏"
+  },
+  {
+    "id": 345,
+    "category": "Your Beautiful Soul",
+    "reason": "How you invest in relationships that matter",
+    "emoji": "💰"
+  },
+  {
+    "id": 346,
+    "category": "Dreams & Future",
+    "reason": "Planning to surprise each other forever",
+    "emoji": "🎁"
+  },
+  {
+    "id": 347,
+    "category": "Inside Jokes",
+    "reason": "The ritual we do before important things",
+    "emoji": "🎭"
+  },
+  {
+    "id": 348,
+    "category": "How You Make Me Feel",
+    "reason": "Like every cliché about love is actually true",
+    "emoji": "💘"
+  },
+  {
+    "id": 349,
+    "category": "Little Things",
+    "reason": "The way you know all my orders and preferences",
+    "emoji": "📋"
+  },
+  {
+    "id": 350,
+    "category": "Your Smile",
+    "reason": "How you smile at our future when we talk about it",
+    "emoji": "🔮"
+  },
+  {
+    "id": 351,
+    "category": "Your Beautiful Soul",
+    "reason": "Your commitment to being authentic always",
+    "emoji": "💎"
+  },
+  {
+    "id": 352,
+    "category": "Dreams & Future",
+    "reason": "Imagining us still having date nights at eighty",
+    "emoji": "🌃"
+  },
+  {
+    "id": 353,
+    "category": "Inside Jokes",
+    "reason": "The look we give each other that says everything",
+    "emoji": "👀"
+  },
+  {
+    "id": 354,
+    "category": "How You Make Me Feel",
+    "reason": "Like I want to be better for you and for us",
+    "emoji": "🌟"
+  },
+  {
+    "id": 355,
+    "category": "Little Things",
+    "reason": "The way you light up talking about your passions",
+    "emoji": "💡"
+  },
+  {
+    "id": 356,
+    "category": "Your Smile",
+    "reason": "That smile that's just for me",
+    "emoji": "😍"
+  },
+  {
+    "id": 357,
+    "category": "Your Beautiful Soul",
+    "reason": "How you love fiercely and completely",
+    "emoji": "🔥"
+  },
+  {
+    "id": 358,
+    "category": "Dreams & Future",
+    "reason": "Planning to keep choosing each other every day",
+    "emoji": "💑"
+  },
+  {
+    "id": 359,
+    "category": "Inside Jokes",
+    "reason": "The thing that happened that we'll laugh about forever",
+    "emoji": "😆"
+  },
+  {
+    "id": 360,
+    "category": "How You Make Me Feel",
+    "reason": "Like I'm experiencing what true love really means",
+    "emoji": "❤️"
+  },
+  {
+    "id": 361,
+    "category": "Little Things",
+    "reason": "Every small moment that makes up our story",
+    "emoji": "📖"
+  },
+  {
+    "id": 362,
+    "category": "Your Smile",
+    "reason": "How your smile is my favorite thing in the world",
+    "emoji": "🌍"
+  },
+  {
+    "id": 363,
+    "category": "Your Beautiful Soul",
+    "reason": "Simply for being exactly who you are",
+    "emoji": "⭐"
+  },
+  {
+    "id": 364,
+    "category": "Dreams & Future",
+    "reason": "For all the tomorrows I get to spend with you",
+    "emoji": "🌅"
+  },
+  {
+    "id": 365,
+    "category": "How You Make Me Feel",
+    "reason": "Because loving you is the easiest and best thing I'll ever do",
+    "emoji": "💕"
+  }
+]

@@ -1,0 +1,580 @@
+/* ==========================================
+   Keyframe Animations
+   ========================================== */
+
+/* Heartbeat Animation */
+@keyframes heartbeat {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  10%,
+  30% {
+    transform: scale(1.1);
+  }
+  20%,
+  40% {
+    transform: scale(1.05);
+  }
+}
+
+/* Pulse Animation */
+@keyframes pulse {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 0.8;
+  }
+}
+
+/* Shimmer Animation */
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.shimmer {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.8) 50%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 2.5s linear infinite;
+  will-change: background-position;
+}
+
+/* Scroll Down Animation */
+@keyframes scroll-down {
+  0% {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(12px);
+  }
+}
+
+/* Float Animation */
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+/* Slide In Up Animation */
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Slide In Down Animation */
+@keyframes slideInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Slide In Left Animation */
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Slide In Right Animation */
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Fade In Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Fade In Scale Animation */
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Bounce Animation */
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-10px);
+  }
+}
+
+/* Rotate Animation */
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Swing Animation */
+@keyframes swing {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  20% {
+    transform: rotate(15deg);
+  }
+  40% {
+    transform: rotate(-10deg);
+  }
+  60% {
+    transform: rotate(5deg);
+  }
+  80% {
+    transform: rotate(-5deg);
+  }
+}
+
+/* Sparkle Animation */
+@keyframes sparkle {
+  0%,
+  100% {
+    opacity: 0;
+    transform: scale(0) rotate(0deg);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1) rotate(180deg);
+  }
+}
+
+/* Glow Animation */
+@keyframes glow {
+  0%,
+  100% {
+    box-shadow:
+      0 0 5px rgba(255, 182, 193, 0.5),
+      0 0 10px rgba(255, 182, 193, 0.4),
+      0 0 15px rgba(255, 182, 193, 0.3);
+  }
+  50% {
+    box-shadow:
+      0 0 10px rgba(255, 182, 193, 0.8),
+      0 0 20px rgba(255, 182, 193, 0.6),
+      0 0 30px rgba(255, 182, 193, 0.4);
+  }
+}
+
+/* Gradient Animation */
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Typewriter Animation */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: var(--rose-gold);
+  }
+}
+
+/* Ripple Animation */
+@keyframes ripple {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(4);
+    opacity: 0;
+  }
+}
+
+/* ==========================================
+   Utility Animation Classes
+   ========================================== */
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+.animate-slide-up {
+  animation: slideInUp 0.6s ease-out forwards;
+}
+
+.animate-slide-down {
+  animation: slideInDown 0.6s ease-out forwards;
+}
+
+.animate-slide-left {
+  animation: slideInLeft 0.6s ease-out forwards;
+}
+
+.animate-slide-right {
+  animation: slideInRight 0.6s ease-out forwards;
+}
+
+.animate-bounce {
+  animation: bounce 1s ease infinite;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-pulse {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.animate-glow {
+  animation: glow 2s ease-in-out infinite;
+}
+
+.animate-rotate {
+  animation: rotate 2s linear infinite;
+}
+
+.animate-swing {
+  animation: swing 1s ease-in-out;
+}
+
+/* ==========================================
+   Scroll-triggered Animations
+   ========================================== */
+
+.scroll-fade-in {
+  opacity: 0;
+  transform: translateY(30px);
+  transition:
+    opacity 0.6s ease-out,
+    transform 0.6s ease-out;
+}
+
+.scroll-fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.scroll-scale-in {
+  opacity: 0;
+  transform: scale(0.8);
+  transition:
+    opacity 0.6s ease-out,
+    transform 0.6s ease-out;
+}
+
+.scroll-scale-in.visible {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* ==========================================
+   Interactive Hover Animations
+   ========================================== */
+
+.hover-lift {
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.hover-scale {
+  transition: transform 0.3s ease;
+}
+
+.hover-scale:hover {
+  transform: scale(1.05);
+}
+
+.hover-glow:hover {
+  animation: glow 1.5s ease-in-out infinite;
+}
+
+.hover-rotate {
+  transition: transform 0.3s ease;
+}
+
+.hover-rotate:hover {
+  transform: rotate(5deg);
+}
+
+/* ==========================================
+   Particle Animations
+   ========================================== */
+
+.particle {
+  position: absolute;
+  pointer-events: none;
+  animation: particleFade 2s ease-out forwards;
+}
+
+@keyframes particleFade {
+  0% {
+    opacity: 1;
+    transform: translate(0, 0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(var(--tx), var(--ty)) scale(0);
+  }
+}
+
+/* ==========================================
+   Card Flip Animation
+   ========================================== */
+
+.flip-enter {
+  animation: flipIn 0.6s ease-out;
+}
+
+@keyframes flipIn {
+  0% {
+    transform: perspective(1000px) rotateY(90deg);
+    opacity: 0;
+  }
+  100% {
+    transform: perspective(1000px) rotateY(0deg);
+    opacity: 1;
+  }
+}
+
+/* ==========================================
+   Loading Animations
+   ========================================== */
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid rgba(255, 182, 193, 0.3);
+  border-top: 4px solid var(--rose-gold);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* ==========================================
+   Button Ripple Effect
+   ========================================== */
+
+.ripple-effect {
+  position: relative;
+  overflow: hidden;
+}
+
+.ripple-effect::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  transform: translate(-50%, -50%);
+  transition:
+    width 0.6s,
+    height 0.6s;
+}
+
+.ripple-effect:active::after {
+  width: 300px;
+  height: 300px;
+}
+
+/* ==========================================
+   Text Animations
+   ========================================== */
+
+.text-gradient {
+  background: linear-gradient(90deg, #ffb6c1, #e6e6fa, #ffb6c1);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientShift 3s linear infinite;
+}
+
+.text-float {
+  display: inline-block;
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Add delay to create wave effect */
+.text-float:nth-child(2) {
+  animation-delay: 0.1s;
+}
+.text-float:nth-child(3) {
+  animation-delay: 0.2s;
+}
+.text-float:nth-child(4) {
+  animation-delay: 0.3s;
+}
+.text-float:nth-child(5) {
+  animation-delay: 0.4s;
+}
+
+/* ==========================================
+   Confetti Animation (for milestone achievements)
+   ========================================== */
+
+.confetti {
+  position: fixed;
+  width: 10px;
+  height: 10px;
+  background: var(--rose-gold);
+  position: absolute;
+  animation: confettiFall 3s ease-out forwards;
+}
+
+@keyframes confettiFall {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(720deg);
+    opacity: 0;
+  }
+}
+
+/* ==========================================
+   Entrance Animations with Delays
+   ========================================== */
+
+.stagger-fade-in > * {
+  opacity: 0;
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+.stagger-fade-in > *:nth-child(1) {
+  animation-delay: 0.1s;
+}
+.stagger-fade-in > *:nth-child(2) {
+  animation-delay: 0.2s;
+}
+.stagger-fade-in > *:nth-child(3) {
+  animation-delay: 0.3s;
+}
+.stagger-fade-in > *:nth-child(4) {
+  animation-delay: 0.4s;
+}
+.stagger-fade-in > *:nth-child(5) {
+  animation-delay: 0.5s;
+}
+.stagger-fade-in > *:nth-child(6) {
+  animation-delay: 0.6s;
+}
+.stagger-fade-in > *:nth-child(7) {
+  animation-delay: 0.7s;
+}
+.stagger-fade-in > *:nth-child(8) {
+  animation-delay: 0.8s;
+}
+
+/* ==========================================
+   Reduced Motion Support
+   ========================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
