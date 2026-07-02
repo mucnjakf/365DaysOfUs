@@ -31,3 +31,6 @@ A romantic, interactive anniversary web app celebrating your love story together
 Created for Lucija with 💕
 
 Anniversary Date: February 8, 2025
+
+- fix code
+- add github stuff
