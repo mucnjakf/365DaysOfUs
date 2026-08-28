@@ -1,36 +1,22 @@
-# 🌸 Anniversary Web App for Lucija
+# <img src="365daysofus.svg" width="25"/> 365DaysOfUs
 
-A romantic, interactive anniversary web app celebrating your love story together.
+### **👁️ Overview**
+Anniversary Gift Web Application - 2026.
 
-## ✨ Features
+<p align="justify">
+    365DaysOfUs is a personal web application created as an anniversary gift to celebrate and track a relationship. It provides a simple and meaningful space where a couple can view how long they have been together through a live timer, read love letters, and access other romantic features designed to preserve special memories. The application focuses on simplicity, sentiment, and a personal user experience that makes it a memorable digital gift.
+</p>
 
-- **Live Countdown Timer**: Real-time counter showing days, hours, minutes, and seconds together since February 8, 2025
-- **365 Reasons I Love You**: Interactive card system with all 365 reasons, categorized and searchable
-- **Hidden Easter Eggs**: Discover secret messages scattered throughout the app
-- **Animated Love Letter**: Beautiful envelope animation with heartfelt message
-- **Progress Tracking**: Saves your progress locally (cards viewed, favorites, secrets found)
-- **Particle Effects**: Floating hearts, stars, and sparkles throughout
-- **Custom Cursor**: Heart trail effect following your mouse
-- **Fully Responsive**: Optimized for both mobile and desktop
+#
 
-## 🚀 Quick Start
+### **⚙️ Tech Stack**
+- HTML
+- CSS
+- JavaScript
 
-1. Clone this repository
-2. Open `index.html` in your browser
-3. Enjoy! ✨
+#
 
-## 🌐 GitHub Pages Deployment
-
-1. Push this repository to GitHub
-2. Go to Settings → Pages
-3. Select branch: `main`, folder: `/ (root)`
-4. Save and your app will be live in a few minutes!
-
-## 💝 Made with Love
-
-Created for Lucija with 💕
-
-Anniversary Date: February 8, 2025
-
-- fix code
-- add github stuff
+### **🛠️ Tools**
+- Source Control: GitHub
+- IDE: VS Code
+- CLI: Windows Terminal
